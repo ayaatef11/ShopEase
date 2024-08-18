@@ -1,0 +1,72 @@
+D:\Notes\myshop.Web\myshop.Utilities\bin\Debug\net7.0\myshop.Utilities.deps.json
+D:\Notes\myshop.Web\myshop.Utilities\bin\Debug\net7.0\myshop.Utilities.dll
+D:\Notes\myshop.Web\myshop.Utilities\bin\Debug\net7.0\myshop.Utilities.pdb
+D:\Notes\myshop.Web\myshop.Utilities\obj\Debug\net7.0\myshop.Utilities.csproj.AssemblyReference.cache
+D:\Notes\myshop.Web\myshop.Utilities\obj\Debug\net7.0\myshop.Utilities.GeneratedMSBuildEditorConfig.editorconfig
+D:\Notes\myshop.Web\myshop.Utilities\obj\Debug\net7.0\myshop.Utilities.AssemblyInfoInputs.cache
+D:\Notes\myshop.Web\myshop.Utilities\obj\Debug\net7.0\myshop.Utilities.AssemblyInfo.cs
+D:\Notes\myshop.Web\myshop.Utilities\obj\Debug\net7.0\myshop.Utilities.csproj.CoreCompileInputs.cache
+D:\Notes\myshop.Web\myshop.Utilities\obj\Debug\net7.0\myshop.Utilities.dll
+D:\Notes\myshop.Web\myshop.Utilities\obj\Debug\net7.0\refint\myshop.Utilities.dll
+D:\Notes\myshop.Web\myshop.Utilities\obj\Debug\net7.0\myshop.Utilities.pdb
+D:\Notes\myshop.Web\myshop.Utilities\obj\Debug\net7.0\ref\myshop.Utilities.dll
+C:\myshop.Web\myshop.Utilities\bin\Debug\net7.0\myshop.Utilities.deps.json
+C:\myshop.Web\myshop.Utilities\bin\Debug\net7.0\myshop.Utilities.dll
+C:\myshop.Web\myshop.Utilities\bin\Debug\net7.0\myshop.Utilities.pdb
+C:\myshop.Web\myshop.Utilities\obj\Debug\net7.0\myshop.Utilities.csproj.AssemblyReference.cache
+C:\myshop.Web\myshop.Utilities\obj\Debug\net7.0\myshop.Utilities.GeneratedMSBuildEditorConfig.editorconfig
+C:\myshop.Web\myshop.Utilities\obj\Debug\net7.0\myshop.Utilities.AssemblyInfoInputs.cache
+C:\myshop.Web\myshop.Utilities\obj\Debug\net7.0\myshop.Utilities.AssemblyInfo.cs
+C:\myshop.Web\myshop.Utilities\obj\Debug\net7.0\myshop.Utilities.csproj.CoreCompileInputs.cache
+C:\myshop.Web\myshop.Utilities\obj\Debug\net7.0\myshop.Utilities.dll
+C:\myshop.Web\myshop.Utilities\obj\Debug\net7.0\refint\myshop.Utilities.dll
+C:\myshop.Web\myshop.Utilities\obj\Debug\net7.0\myshop.Utilities.pdb
+C:\myshop.Web\myshop.Utilities\obj\Debug\net7.0\ref\myshop.Utilities.dll
+C:\Live\myshop.Web\myshop.Utilities\bin\Debug\net7.0\myshop.Utilities.deps.json
+C:\Live\myshop.Web\myshop.Utilities\bin\Debug\net7.0\myshop.Utilities.dll
+C:\Live\myshop.Web\myshop.Utilities\bin\Debug\net7.0\myshop.Utilities.pdb
+C:\Live\myshop.Web\myshop.Utilities\obj\Debug\net7.0\myshop.Utilities.csproj.AssemblyReference.cache
+C:\Live\myshop.Web\myshop.Utilities\obj\Debug\net7.0\myshop.Utilities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Live\myshop.Web\myshop.Utilities\obj\Debug\net7.0\myshop.Utilities.AssemblyInfoInputs.cache
+C:\Live\myshop.Web\myshop.Utilities\obj\Debug\net7.0\myshop.Utilities.AssemblyInfo.cs
+C:\Live\myshop.Web\myshop.Utilities\obj\Debug\net7.0\myshop.Utilities.csproj.CoreCompileInputs.cache
+C:\Live\myshop.Web\myshop.Utilities\obj\Debug\net7.0\myshop.Utilities.dll
+C:\Live\myshop.Web\myshop.Utilities\obj\Debug\net7.0\refint\myshop.Utilities.dll
+C:\Live\myshop.Web\myshop.Utilities\obj\Debug\net7.0\myshop.Utilities.pdb
+C:\Live\myshop.Web\myshop.Utilities\obj\Debug\net7.0\ref\myshop.Utilities.dll
+F:\my Private Course\Live\myshop.Web\myshop.Utilities\bin\Debug\net7.0\myshop.Utilities.deps.json
+F:\my Private Course\Live\myshop.Web\myshop.Utilities\bin\Debug\net7.0\myshop.Utilities.dll
+F:\my Private Course\Live\myshop.Web\myshop.Utilities\bin\Debug\net7.0\myshop.Utilities.pdb
+F:\my Private Course\Live\myshop.Web\myshop.Utilities\obj\Debug\net7.0\myshop.Utilities.csproj.AssemblyReference.cache
+F:\my Private Course\Live\myshop.Web\myshop.Utilities\obj\Debug\net7.0\myshop.Utilities.GeneratedMSBuildEditorConfig.editorconfig
+F:\my Private Course\Live\myshop.Web\myshop.Utilities\obj\Debug\net7.0\myshop.Utilities.AssemblyInfoInputs.cache
+F:\my Private Course\Live\myshop.Web\myshop.Utilities\obj\Debug\net7.0\myshop.Utilities.AssemblyInfo.cs
+F:\my Private Course\Live\myshop.Web\myshop.Utilities\obj\Debug\net7.0\myshop.Utilities.csproj.CoreCompileInputs.cache
+F:\my Private Course\Live\myshop.Web\myshop.Utilities\obj\Debug\net7.0\myshop.Utilities.dll
+F:\my Private Course\Live\myshop.Web\myshop.Utilities\obj\Debug\net7.0\refint\myshop.Utilities.dll
+F:\my Private Course\Live\myshop.Web\myshop.Utilities\obj\Debug\net7.0\myshop.Utilities.pdb
+F:\my Private Course\Live\myshop.Web\myshop.Utilities\obj\Debug\net7.0\ref\myshop.Utilities.dll
+C:\Users\Mohamed.Alaa\Music\Live\myshop.Web\myshop.Utilities\bin\Debug\net7.0\myshop.Utilities.deps.json
+C:\Users\Mohamed.Alaa\Music\Live\myshop.Web\myshop.Utilities\bin\Debug\net7.0\myshop.Utilities.dll
+C:\Users\Mohamed.Alaa\Music\Live\myshop.Web\myshop.Utilities\bin\Debug\net7.0\myshop.Utilities.pdb
+C:\Users\Mohamed.Alaa\Music\Live\myshop.Web\myshop.Utilities\obj\Debug\net7.0\myshop.Utilities.csproj.AssemblyReference.cache
+C:\Users\Mohamed.Alaa\Music\Live\myshop.Web\myshop.Utilities\obj\Debug\net7.0\myshop.Utilities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mohamed.Alaa\Music\Live\myshop.Web\myshop.Utilities\obj\Debug\net7.0\myshop.Utilities.AssemblyInfoInputs.cache
+C:\Users\Mohamed.Alaa\Music\Live\myshop.Web\myshop.Utilities\obj\Debug\net7.0\myshop.Utilities.AssemblyInfo.cs
+C:\Users\Mohamed.Alaa\Music\Live\myshop.Web\myshop.Utilities\obj\Debug\net7.0\myshop.Utilities.csproj.CoreCompileInputs.cache
+C:\Users\Mohamed.Alaa\Music\Live\myshop.Web\myshop.Utilities\obj\Debug\net7.0\myshop.Utilities.dll
+C:\Users\Mohamed.Alaa\Music\Live\myshop.Web\myshop.Utilities\obj\Debug\net7.0\refint\myshop.Utilities.dll
+C:\Users\Mohamed.Alaa\Music\Live\myshop.Web\myshop.Utilities\obj\Debug\net7.0\myshop.Utilities.pdb
+C:\Users\Mohamed.Alaa\Music\Live\myshop.Web\myshop.Utilities\obj\Debug\net7.0\ref\myshop.Utilities.dll
+E:\Live\myshop.Web\myshop.Utilities\bin\Debug\net7.0\myshop.Utilities.deps.json
+E:\Live\myshop.Web\myshop.Utilities\bin\Debug\net7.0\myshop.Utilities.dll
+E:\Live\myshop.Web\myshop.Utilities\bin\Debug\net7.0\myshop.Utilities.pdb
+E:\Live\myshop.Web\myshop.Utilities\obj\Debug\net7.0\myshop.Utilities.csproj.AssemblyReference.cache
+E:\Live\myshop.Web\myshop.Utilities\obj\Debug\net7.0\myshop.Utilities.GeneratedMSBuildEditorConfig.editorconfig
+E:\Live\myshop.Web\myshop.Utilities\obj\Debug\net7.0\myshop.Utilities.AssemblyInfoInputs.cache
+E:\Live\myshop.Web\myshop.Utilities\obj\Debug\net7.0\myshop.Utilities.AssemblyInfo.cs
+E:\Live\myshop.Web\myshop.Utilities\obj\Debug\net7.0\myshop.Utilities.csproj.CoreCompileInputs.cache
+E:\Live\myshop.Web\myshop.Utilities\obj\Debug\net7.0\myshop.Utilities.dll
+E:\Live\myshop.Web\myshop.Utilities\obj\Debug\net7.0\refint\myshop.Utilities.dll
+E:\Live\myshop.Web\myshop.Utilities\obj\Debug\net7.0\myshop.Utilities.pdb
+E:\Live\myshop.Web\myshop.Utilities\obj\Debug\net7.0\ref\myshop.Utilities.dll
