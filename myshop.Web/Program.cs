@@ -1,15 +1,19 @@
 using Microsoft.EntityFrameworkCore;
 using myshop.DataAccess;
-using myshop.DataAccess.Implementation;
-using myshop.Entities.Repositories;
-using Microsoft.AspNetCore.Identity;
-using Microsoft.AspNetCore.Identity.UI.Services;
-using myshop.Utilities;
 using Stripe;
-
+using MyShop.DataAccess.Implementation;
+using myshop.DataAccess.Seeds;
+//validations
+//authentication
+//views
+//diagrams
+//filters 
+//specifications
+//error filters 
+//caching 
+//extensions 
 var builder = WebApplication.CreateBuilder(args);
 
-// Add services to the container.
 builder.Services.AddControllersWithViews();
 builder.Services.AddRazorPages().AddRazorRuntimeCompilation();
 builder.Services.AddDbContext<ApplicationDbContext>(options => options.UseSqlServer(
@@ -25,17 +29,41 @@ builder.Services.AddIdentity<IdentityUser,IdentityRole>(
 
 builder.Services.AddSingleton<IEmailSender, EmailSender>();
 builder.Services.AddScoped<IUnitOfWork, UnitOfWork>();
-
+//builder.Services.AddScoped<IUserEmailStore<ApplicationUser>>();
 builder.Services.AddDistributedMemoryCache();
 builder.Services.AddSession();
 
 var app = builder.Build();
 
-// Configure the HTTP request pipeline.
+using (var scope = app.Services.CreateScope())
+{
+    var services = scope.ServiceProvider;
+    var logger = services.GetRequiredService<ILogger<Program>>();
+
+    try
+    {
+        // Migrate the database to the latest version
+        var context = services.GetRequiredService<ApplicationDbContext>();
+        await context.Database.MigrateAsync();
+
+        // Seed the roles, users, and claims
+        var userManager = services.GetRequiredService<UserManager<ApplicationUser>>();
+        var roleManager = services.GetRequiredService<RoleManager<IdentityRole>>();
+
+        // Call your seeding methods here
+        await DefaultUsers.SeedBasicUserAsync(userManager);
+        await DefaultUsers.SeedSuperAdminUserAsync(userManager, roleManager);
+
+        logger.LogInformation("Database seeding completed successfully.");
+    }
+    catch (Exception ex)
+    {
+        logger.LogError(ex, "An error occurred while seeding the database.");
+    }
+}
 if (!app.Environment.IsDevelopment())
 {
     app.UseExceptionHandler("/Home/Error");
-    // The default HSTS value is 30 days. You may want to change this for production scenarios, see https://aka.ms/aspnetcore-hsts.
     app.UseHsts();
 }
 
@@ -53,12 +81,10 @@ app.UseAuthorization();
 app.UseSession();
 
 app.MapRazorPages();
-app.MapControllerRoute(
-    name: "default",
-    pattern: "{area=Admin}/{controller=Home}/{action=Index}/{id?}");
+
 
 app.MapControllerRoute(
     name: "Customer",
-    pattern: "{area=Customer}/{controller=Home}/{action=Index}/{id?}");
+    pattern: "{area=Admin}/{controller=Dashboard}/{action=Display}");
 
 app.Run();
