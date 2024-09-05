@@ -1,0 +1,12 @@
+F:\full-stack\myshopping\myshop.Entities\bin\Release\net7.0\myshop.Entities.deps.json
+F:\full-stack\myshopping\myshop.Entities\bin\Release\net7.0\myshop.Entities.dll
+F:\full-stack\myshopping\myshop.Entities\bin\Release\net7.0\myshop.Entities.pdb
+F:\full-stack\myshopping\myshop.Entities\obj\Release\net7.0\myshop.Entities.csproj.AssemblyReference.cache
+F:\full-stack\myshopping\myshop.Entities\obj\Release\net7.0\myshop.Entities.GeneratedMSBuildEditorConfig.editorconfig
+F:\full-stack\myshopping\myshop.Entities\obj\Release\net7.0\myshop.Entities.AssemblyInfoInputs.cache
+F:\full-stack\myshopping\myshop.Entities\obj\Release\net7.0\myshop.Entities.AssemblyInfo.cs
+F:\full-stack\myshopping\myshop.Entities\obj\Release\net7.0\myshop.Entities.csproj.CoreCompileInputs.cache
+F:\full-stack\myshopping\myshop.Entities\obj\Release\net7.0\myshop.Entities.dll
+F:\full-stack\myshopping\myshop.Entities\obj\Release\net7.0\refint\myshop.Entities.dll
+F:\full-stack\myshopping\myshop.Entities\obj\Release\net7.0\myshop.Entities.pdb
+F:\full-stack\myshopping\myshop.Entities\obj\Release\net7.0\ref\myshop.Entities.dll
