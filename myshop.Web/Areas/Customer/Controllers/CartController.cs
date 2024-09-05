@@ -1,13 +1,4 @@
-﻿using Microsoft.AspNetCore.Authorization;
-using Microsoft.AspNetCore.Mvc;
-using Microsoft.Extensions.Options;
-using myshop.DataAccess.Implementation;
-using myshop.Entities.Models;
-using myshop.Entities.Repositories;
-using myshop.Entities.ViewModels;
-using myshop.Utilities;
-using Stripe.Checkout;
-using System.Security.Claims;
+﻿
 
 namespace myshop.Web.Areas.Customer.Controllers
 {
@@ -22,7 +13,7 @@ namespace myshop.Web.Areas.Customer.Controllers
         {
             _unitOfWork = unitOfWork;
         }
-        public IActionResult Index()
+        public IActionResult ViewProducts()
         {
 			var claimsIdentity = (ClaimsIdentity)User.Identity;
 			var claim = claimsIdentity.FindFirst(ClaimTypes.NameIdentifier);
@@ -43,7 +34,7 @@ namespace myshop.Web.Areas.Customer.Controllers
         }
 
         [HttpGet]
-        public IActionResult Summary()
+        public IActionResult ListOrderDetails()//list you the order details
         {
             var claimsIdentity = (ClaimsIdentity)User.Identity;
             var claim = claimsIdentity.FindFirst(ClaimTypes.NameIdentifier);
@@ -72,7 +63,7 @@ namespace myshop.Web.Areas.Customer.Controllers
         [HttpPost]
         [ActionName("Summary")]
         [ValidateAntiForgeryToken]
-        public IActionResult POSTSummary(ShoppingCartVM ShoppingCartVM)
+        public IActionResult ListOrderDetails(ShoppingCartVM ShoppingCartVM)
         {
             var claimsIdentity = (ClaimsIdentity)User.Identity;
             var claim = claimsIdentity.FindFirst(ClaimTypes.NameIdentifier);
@@ -108,10 +99,10 @@ namespace myshop.Web.Areas.Customer.Controllers
                 _unitOfWork.Complete();
             }
 
-            var domain = "https://localhost:7020/";
+            var domain = "https://localhost:7020/";//depend on the current host//you should make it flexiable 
             var options = new SessionCreateOptions
             {
-                LineItems = new List<SessionLineItemOptions>(),
+                LineItems = new (),
 		        
 				Mode = "payment",
 				SuccessUrl = domain+$"customer/cart/orderconfirmation?id={ShoppingCartVM.OrderHeader.Id}",
@@ -146,9 +137,6 @@ namespace myshop.Web.Areas.Customer.Controllers
 			Response.Headers.Add("Location", session.Url);
 			return new StatusCodeResult(303);
 
-			//_unitOfWork.ShoppingCart.RemoveRange(ShoppingCartVM.CartsList);
-   //         _unitOfWork.Complete();
-   //         return RedirectToAction("Index","Home");
             
         }
 
@@ -171,7 +159,7 @@ namespace myshop.Web.Areas.Customer.Controllers
             return View(id);
         }
 
-		public IActionResult Plus(int cartid)
+		public IActionResult AddProduct(int cartid)
         {
             var shoppingcart = _unitOfWork.ShoppingCart.GetFirstorDefault(x => x.Id == cartid);
             _unitOfWork.ShoppingCart.IncreaseCount(shoppingcart, 1);
@@ -179,7 +167,7 @@ namespace myshop.Web.Areas.Customer.Controllers
             return RedirectToAction("Index");
         }
 
-		public IActionResult Minus(int cartid)
+		public IActionResult RemoveProduct(int cartid)
 		{
 			var shoppingcart = _unitOfWork.ShoppingCart.GetFirstorDefault(x => x.Id == cartid);
 

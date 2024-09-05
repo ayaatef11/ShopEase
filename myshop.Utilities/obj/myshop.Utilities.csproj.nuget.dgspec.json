@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "E:\\Live\\myshop.Web\\myshop.Utilities\\myshop.Utilities.csproj": {}
+    "F:\\full-stack\\myshopping\\myshop.Utilities\\myshop.Utilities.csproj": {}
   },
   "projects": {
-    "E:\\Live\\myshop.Web\\myshop.Utilities\\myshop.Utilities.csproj": {
+    "F:\\full-stack\\myshopping\\myshop.Utilities\\myshop.Utilities.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Live\\myshop.Web\\myshop.Utilities\\myshop.Utilities.csproj",
+        "projectUniqueName": "F:\\full-stack\\myshopping\\myshop.Utilities\\myshop.Utilities.csproj",
         "projectName": "myshop.Utilities",
-        "projectPath": "E:\\Live\\myshop.Web\\myshop.Utilities\\myshop.Utilities.csproj",
-        "packagesPath": "C:\\Users\\pc\\.nuget\\packages\\",
-        "outputPath": "E:\\Live\\myshop.Web\\myshop.Utilities\\obj\\",
+        "projectPath": "F:\\full-stack\\myshopping\\myshop.Utilities\\myshop.Utilities.csproj",
+        "packagesPath": "C:\\Users\\Aya Atef\\.nuget\\packages\\",
+        "outputPath": "F:\\full-stack\\Myshopping\\myshop.Utilities\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\pc\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Aya Atef\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -22,7 +22,9 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "https://api.nuget.org/v3/index.json": {}
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://packagesource": {}
         },
         "frameworks": {
           "net7.0": {
@@ -34,6 +36,11 @@
           "warnAsError": [
             "NU1605"
           ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
         }
       },
       "frameworks": {
@@ -61,7 +68,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.304\\RuntimeIdentifierGraph.json"
         }
       }
     }

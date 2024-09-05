@@ -178,9 +178,12 @@
 @section Scripts{
 	
 	<script>
-
+		//used for displaying alerts 
+		//The provided JavaScript function CheckData() uses the SweetAlert2
+		// (Swal.fire()) library to display alert dialogs when certain input fields are empty.
 		function CheckData() {
 			if(document.getElementById("carrier").value == ''){
+				// Display an error alert using SweetAlert2
 				Swal.fire({
 					title: 'There is an error',
 					text: "Please Enter Carrier",

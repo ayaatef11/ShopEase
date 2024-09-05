@@ -1,9 +1,4 @@
 ﻿using Microsoft.AspNetCore.Mvc.ModelBinding.Validation;
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace myshop.Entities.Models
 {
@@ -11,10 +6,10 @@ namespace myshop.Entities.Models
     {
         public int Id { get; set; }
 
-        public string ApplicationUserId { get; set; }
+        public string ApplicationUserId { get; set; } = string.Empty;
 
         [ValidateNever]
-        public ApplicationUser ApplicationUser { get; set; }
+        public ApplicationUser ApplicationUser { get; set; }=new();
 
         public DateTime OrderDate { get; set; }
         public DateTime ShippingDate { get; set; }
@@ -30,14 +25,13 @@ namespace myshop.Entities.Models
         public DateTime PaymentDate { get; set; }
 
         //Stripe Properties
-
         public string? SessionId { get; set; }
         public string? PaymentIntentId { get; set; }
 
         //User Data
-        public string Name { get; set; }
-        public string Address { get; set; }
-        public string City { get; set; }
+        public string Name { get; set; } = string.Empty;
+        public string Address { get; set; }=string.Empty;
+        public string City { get; set; } = string.Empty;
         public string? PhoneNumber { get; set; }
 
     }

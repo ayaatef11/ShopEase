@@ -1,27 +1,18 @@
-﻿using Microsoft.AspNetCore.Mvc;
-using myshop.DataAccess;
-using myshop.Entities.Models;
-using myshop.Entities.Repositories;
+﻿
 
 namespace myshop.Web.Areas.Admin.Controllers
 {
     [Area("Admin")]
-    public class CategoryController : Controller
+    public class CategoryController(IUnitOfWork _unitOfWork) : Controller
     {
-        private IUnitOfWork _unitOfWork;
-        public CategoryController(IUnitOfWork unitOfWork)
-        {
-            _unitOfWork = unitOfWork;
-        }
-
-        public IActionResult Index()
+         public IActionResult ViewCategories()
         {
             var categories = _unitOfWork.Category.GetAll();
             return View(categories);
         }
 
         [HttpGet]
-        public IActionResult Create()
+        public IActionResult CreateCategory()
         {
 
             return View();
@@ -29,13 +20,11 @@ namespace myshop.Web.Areas.Admin.Controllers
 
         [HttpPost]
         [ValidateAntiForgeryToken]
-        public IActionResult Create(Category category)
+        public IActionResult CreateCategory(Category category)
         {
             if (ModelState.IsValid)
             {
-                //_context.Categories.Add(category);
                 _unitOfWork.Category.Add(category);
-                //_context.SaveChanges();
                 _unitOfWork.Complete();
                 TempData["Create"] = "Item has Created Successfully";
                 return RedirectToAction("Index");
@@ -44,13 +33,12 @@ namespace myshop.Web.Areas.Admin.Controllers
         }
 
         [HttpGet]
-        public IActionResult Edit(int? id)
+        public IActionResult EditCategory(int? id)
         {
             if (id == null | id == 0)
             {
                 NotFound();
             }
-            //var categoryIndb = _context.Categories.Find(id);
 
             var categoryIndb = _unitOfWork.Category.GetFirstorDefault(x => x.Id == id);
 
@@ -59,15 +47,13 @@ namespace myshop.Web.Areas.Admin.Controllers
 
         [HttpPost]
         [ValidateAntiForgeryToken]
-        public IActionResult Edit(Category category)
+        public IActionResult EditCategory(Category category)
         {
             if (ModelState.IsValid)
             {
-                //_context.Categories.Update(category);
 
                 _unitOfWork.Category.Update(category);
                 _unitOfWork.Complete();
-                //_context.SaveChanges();
                 TempData["Update"] = "Data has Updated Successfully";
                 return RedirectToAction("Index");
             }
@@ -95,8 +81,6 @@ namespace myshop.Web.Areas.Admin.Controllers
                 NotFound();
             }
             _unitOfWork.Category.Remove(categoryIndb);
-            //_context.Categories.Remove(categoryIndb);
-            //_context.SaveChanges();
             _unitOfWork.Complete();
             TempData["Delete"] = "Item has Deleted Successfully";
             return RedirectToAction("Index");

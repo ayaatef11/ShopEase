@@ -70,3 +70,15 @@ E:\Live\myshop.Web\myshop.Utilities\obj\Debug\net7.0\myshop.Utilities.dll
 E:\Live\myshop.Web\myshop.Utilities\obj\Debug\net7.0\refint\myshop.Utilities.dll
 E:\Live\myshop.Web\myshop.Utilities\obj\Debug\net7.0\myshop.Utilities.pdb
 E:\Live\myshop.Web\myshop.Utilities\obj\Debug\net7.0\ref\myshop.Utilities.dll
+F:\full-stack\Myshopping\myshop.Utilities\bin\Debug\net7.0\myshop.Utilities.deps.json
+F:\full-stack\Myshopping\myshop.Utilities\bin\Debug\net7.0\myshop.Utilities.dll
+F:\full-stack\Myshopping\myshop.Utilities\bin\Debug\net7.0\myshop.Utilities.pdb
+F:\full-stack\Myshopping\myshop.Utilities\obj\Debug\net7.0\myshop.Utilities.csproj.AssemblyReference.cache
+F:\full-stack\Myshopping\myshop.Utilities\obj\Debug\net7.0\myshop.Utilities.GeneratedMSBuildEditorConfig.editorconfig
+F:\full-stack\Myshopping\myshop.Utilities\obj\Debug\net7.0\myshop.Utilities.AssemblyInfoInputs.cache
+F:\full-stack\Myshopping\myshop.Utilities\obj\Debug\net7.0\myshop.Utilities.AssemblyInfo.cs
+F:\full-stack\Myshopping\myshop.Utilities\obj\Debug\net7.0\myshop.Utilities.csproj.CoreCompileInputs.cache
+F:\full-stack\Myshopping\myshop.Utilities\obj\Debug\net7.0\myshop.Utilities.dll
+F:\full-stack\Myshopping\myshop.Utilities\obj\Debug\net7.0\refint\myshop.Utilities.dll
+F:\full-stack\Myshopping\myshop.Utilities\obj\Debug\net7.0\myshop.Utilities.pdb
+F:\full-stack\Myshopping\myshop.Utilities\obj\Debug\net7.0\ref\myshop.Utilities.dll

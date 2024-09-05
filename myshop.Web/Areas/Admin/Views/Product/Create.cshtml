@@ -41,30 +41,26 @@
             </div>
         </form>
     </div>
-
     <div class="col-md-4">
         <div class="container">
             <img id="ImagePrevew" width="300" height="300" />
         </div>
     </div>
-
-
-
 </div>
-
 <div>
     <a asp-action="Index">Back to List</a>
 </div>
 
 @section Scripts {
-    @{
+@*     //this is a razor section *@
+ @{
         await Html.RenderPartialAsync("_ValidationScriptsPartial");
     }
 
     <script>
         var fillimg = function(event){
             var imgholder = document.getElementById("ImagePrevew");
-            imgholder.src = URL.createObjectURL(event.target.files[0]);
+            imgholder.src = URL.createObjectURL(event.target.files[0]);///////////////////////
         }
     </script>
 

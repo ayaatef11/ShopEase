@@ -1,22 +1,11 @@
-﻿using Microsoft.AspNetCore.Mvc;
+﻿
 using Microsoft.AspNetCore.Mvc.Rendering;
-using myshop.DataAccess;
-using myshop.Entities.Models;
-using myshop.Entities.Repositories;
-using myshop.Entities.ViewModels;
 
 namespace myshop.Web.Areas.Admin.Controllers
 {
     [Area("Admin")]
-    public class ProductController : Controller
+    public class ProductController(IUnitOfWork _unitOfWork, IWebHostEnvironment _webHostEnvironment) : Controller
     {
-        private readonly IUnitOfWork _unitOfWork;
-        private readonly IWebHostEnvironment _webHostEnvironment;
-        public ProductController(IUnitOfWork unitOfWork,IWebHostEnvironment webHostEnvironment)
-        {
-            _unitOfWork = unitOfWork;
-            _webHostEnvironment = webHostEnvironment;
-        }
 
         public IActionResult Index()
         {
@@ -31,7 +20,7 @@ namespace myshop.Web.Areas.Admin.Controllers
         }
 
         [HttpGet]
-        public IActionResult Create()
+        public IActionResult CreateProduct()
         {
             ProductVM productVM = new ProductVM()
             {
@@ -47,7 +36,7 @@ namespace myshop.Web.Areas.Admin.Controllers
 
         [HttpPost]
         [ValidateAntiForgeryToken]
-        public IActionResult Create(ProductVM productVM,IFormFile file)
+        public IActionResult CreateProduct(ProductVM productVM,IFormFile file)
         {
             if (ModelState.IsValid)
             {
@@ -74,7 +63,7 @@ namespace myshop.Web.Areas.Admin.Controllers
         }
 
         [HttpGet]
-        public IActionResult Edit(int? id)
+        public IActionResult EditProduct(int? id)
         {
             if (id == null | id == 0)
             {
@@ -95,7 +84,7 @@ namespace myshop.Web.Areas.Admin.Controllers
 
         [HttpPost]
         [ValidateAntiForgeryToken]
-        public IActionResult Edit(ProductVM productVM, IFormFile? file)
+        public IActionResult EditProduct(ProductVM productVM, IFormFile? file)
         {
             if (ModelState.IsValid)
             {
@@ -130,7 +119,7 @@ namespace myshop.Web.Areas.Admin.Controllers
         }
       
         [HttpDelete]
-        public IActionResult Delete(int? id)
+        public IActionResult DeleteProduct(int? id)
         {
             var productIndb = _unitOfWork.Product.GetFirstorDefault(x => x.Id == id);
             if (productIndb == null)

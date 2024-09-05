@@ -1,26 +1,15 @@
-﻿using Microsoft.AspNetCore.Authorization;
-using Microsoft.AspNetCore.Mvc;
-using myshop.Entities.Models;
-using myshop.Entities.Repositories;
-using myshop.Entities.ViewModels;
-using myshop.Utilities;
+﻿
 using Stripe;
 
 namespace myshop.Web.Areas.Admin.Controllers
 {
 	[Area("Admin")]
 	[Authorize(Roles =SD.AdminRole)]
-	public class OrderController : Controller
+	public class OrderController(IUnitOfWork _unitofwork) : Controller
 	{
-		private readonly IUnitOfWork _unitofwork;
 
 		[BindProperty]
 		public OrderVM OrderVM { get; set; }
-
-		public OrderController(IUnitOfWork unitOfWork)
-        {
-			_unitofwork = unitOfWork;
-        }
         public IActionResult Index()
 		{
 			return View();

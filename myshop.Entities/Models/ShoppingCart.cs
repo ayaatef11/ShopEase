@@ -1,11 +1,5 @@
 ﻿using Microsoft.AspNetCore.Mvc.ModelBinding.Validation;
-using System;
-using System.Collections.Generic;
 using System.ComponentModel.DataAnnotations.Schema;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
 namespace myshop.Entities.Models
 {
     public class ShoppingCart
@@ -16,14 +10,14 @@ namespace myshop.Entities.Models
 
         [ForeignKey("ProductId")]
         [ValidateNever]
-        public Product Product { get; set; }
+        public Product Product { get; set; }=new();
 
         public int Count { get; set; }
 
-        public string ApplicationUserId { get; set; }
+        public string ApplicationUserId { get; set; } = string.Empty;
 
         [ForeignKey("ApplicationUserId")]
         [ValidateNever]
-        public ApplicationUser ApplicationUser { get; set; }
+        public ApplicationUser ApplicationUser { get; set; }=new();
     }
 }

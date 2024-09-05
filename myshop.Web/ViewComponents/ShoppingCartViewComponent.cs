@@ -1,19 +1,8 @@
-﻿using Microsoft.AspNetCore.Mvc;
-using myshop.DataAccess.Implementation;
-using myshop.Entities.Repositories;
-using myshop.Utilities;
-using System.Security.Claims;
-
+﻿
 namespace myshop.Web.ViewComponents
 {
-    public class ShoppingCartViewComponent : ViewComponent
-    {
-        private readonly IUnitOfWork _unitofwork;
-        public ShoppingCartViewComponent(IUnitOfWork unitofwork)
-        {
-                _unitofwork = unitofwork;
-        }
-
+    public class ShoppingCartViewComponent(IUnitOfWork _unitofwork) : ViewComponent
+    {       
         public async Task<IViewComponentResult> InvokeAsync()
         {
             var claimsIdentity = (ClaimsIdentity)User.Identity;
