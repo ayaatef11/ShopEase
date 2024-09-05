@@ -1,0 +1,14 @@
+﻿global using Microsoft.AspNetCore.Authorization;
+global using Microsoft.AspNetCore.Http;
+global using Microsoft.AspNetCore.Mvc;
+global using myshop.Entities.Models;
+global using myshop.Entities.Repositories;
+global using myshop.Entities.ViewModels;
+global using myshop.Utilities;
+global using Stripe.Checkout;
+global using System.Security.Claims;
+global using System.ComponentModel.DataAnnotations;
+global using System.Text;
+global using System.Text.Encodings.Web;
+global using Microsoft.AspNetCore.Authentication;
+global using Microsoft.AspNetCore.Identity;
