@@ -1,2 +1,4 @@
 appsettings.json
 appsettings.development.json
+/bin
+/obj
