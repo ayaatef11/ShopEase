@@ -1,0 +1,17 @@
+F:\full-stack\myshopping\myshop.DataAccess\bin\Release\net7.0\myshop.DataAccess.deps.json
+F:\full-stack\myshopping\myshop.DataAccess\bin\Release\net7.0\myshop.DataAccess.runtimeconfig.json
+F:\full-stack\myshopping\myshop.DataAccess\bin\Release\net7.0\myshop.DataAccess.dll
+F:\full-stack\myshopping\myshop.DataAccess\bin\Release\net7.0\myshop.DataAccess.pdb
+F:\full-stack\myshopping\myshop.DataAccess\bin\Release\net7.0\myshop.Entities.dll
+F:\full-stack\myshopping\myshop.DataAccess\bin\Release\net7.0\myshop.Entities.pdb
+F:\full-stack\myshopping\myshop.DataAccess\obj\Release\net7.0\myshop.DataAccess.csproj.AssemblyReference.cache
+F:\full-stack\myshopping\myshop.DataAccess\obj\Release\net7.0\myshop.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+F:\full-stack\myshopping\myshop.DataAccess\obj\Release\net7.0\myshop.DataAccess.AssemblyInfoInputs.cache
+F:\full-stack\myshopping\myshop.DataAccess\obj\Release\net7.0\myshop.DataAccess.AssemblyInfo.cs
+F:\full-stack\myshopping\myshop.DataAccess\obj\Release\net7.0\myshop.DataAccess.csproj.CoreCompileInputs.cache
+F:\full-stack\myshopping\myshop.DataAccess\obj\Release\net7.0\myshop.D.0D8314D7.Up2Date
+F:\full-stack\myshopping\myshop.DataAccess\obj\Release\net7.0\myshop.DataAccess.dll
+F:\full-stack\myshopping\myshop.DataAccess\obj\Release\net7.0\refint\myshop.DataAccess.dll
+F:\full-stack\myshopping\myshop.DataAccess\obj\Release\net7.0\myshop.DataAccess.pdb
+F:\full-stack\myshopping\myshop.DataAccess\obj\Release\net7.0\myshop.DataAccess.genruntimeconfig.cache
+F:\full-stack\myshopping\myshop.DataAccess\obj\Release\net7.0\ref\myshop.DataAccess.dll
