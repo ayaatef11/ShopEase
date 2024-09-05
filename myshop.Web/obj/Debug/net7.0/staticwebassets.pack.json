@@ -1,943 +1,939 @@
 {
   "Files": [
     {
-      "Id": "E:\\Live\\myshop.Web\\myshop.Web\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\myshop.Web.bundle.scp.css",
+      "Id": "F:\\full-stack\\Myshopping\\myshop.Web\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\myshop.Web.bundle.scp.css",
       "PackagePath": "staticwebassets\\myshop.Web.bundle.scp.css"
     },
     {
-      "Id": "E:\\Live\\myshop.Web\\myshop.Web\\wwwroot\\Images\\Products\\02a7ea31-1096-4acc-99ad-d708a75c6688.jpg",
+      "Id": "F:\\full-stack\\Myshopping\\myshop.Web\\wwwroot\\Images\\Products\\02a7ea31-1096-4acc-99ad-d708a75c6688.jpg",
       "PackagePath": "staticwebassets\\Images\\Products\\02a7ea31-1096-4acc-99ad-d708a75c6688.jpg"
     },
     {
-      "Id": "E:\\Live\\myshop.Web\\myshop.Web\\wwwroot\\Images\\Products\\035afc1e-b77f-4b5b-9eb7-7d7991bea349.jpg",
+      "Id": "F:\\full-stack\\Myshopping\\myshop.Web\\wwwroot\\Images\\Products\\035afc1e-b77f-4b5b-9eb7-7d7991bea349.jpg",
       "PackagePath": "staticwebassets\\Images\\Products\\035afc1e-b77f-4b5b-9eb7-7d7991bea349.jpg"
     },
     {
-      "Id": "E:\\Live\\myshop.Web\\myshop.Web\\wwwroot\\Images\\Products\\1198e589-c4ff-45a6-81da-6bb51a1a23be.jpg",
+      "Id": "F:\\full-stack\\Myshopping\\myshop.Web\\wwwroot\\Images\\Products\\1198e589-c4ff-45a6-81da-6bb51a1a23be.jpg",
       "PackagePath": "staticwebassets\\Images\\Products\\1198e589-c4ff-45a6-81da-6bb51a1a23be.jpg"
     },
     {
-      "Id": "E:\\Live\\myshop.Web\\myshop.Web\\wwwroot\\Images\\Products\\16334666-9418-4950-a62a-d40d855aa437.jpg",
+      "Id": "F:\\full-stack\\Myshopping\\myshop.Web\\wwwroot\\Images\\Products\\16334666-9418-4950-a62a-d40d855aa437.jpg",
       "PackagePath": "staticwebassets\\Images\\Products\\16334666-9418-4950-a62a-d40d855aa437.jpg"
     },
     {
-      "Id": "E:\\Live\\myshop.Web\\myshop.Web\\wwwroot\\Images\\Products\\248aaba6-43c9-442d-82f9-b4e0a1b89aa6.jpg",
+      "Id": "F:\\full-stack\\Myshopping\\myshop.Web\\wwwroot\\Images\\Products\\248aaba6-43c9-442d-82f9-b4e0a1b89aa6.jpg",
       "PackagePath": "staticwebassets\\Images\\Products\\248aaba6-43c9-442d-82f9-b4e0a1b89aa6.jpg"
     },
     {
-      "Id": "E:\\Live\\myshop.Web\\myshop.Web\\wwwroot\\Images\\Products\\3ab06290-2a1d-4abd-983b-66141b925fdc.jpg",
+      "Id": "F:\\full-stack\\Myshopping\\myshop.Web\\wwwroot\\Images\\Products\\3ab06290-2a1d-4abd-983b-66141b925fdc.jpg",
       "PackagePath": "staticwebassets\\Images\\Products\\3ab06290-2a1d-4abd-983b-66141b925fdc.jpg"
     },
     {
-      "Id": "E:\\Live\\myshop.Web\\myshop.Web\\wwwroot\\Images\\Products\\40400314-7c8b-4bdb-b7b7-cec4f0cb861d.png",
+      "Id": "F:\\full-stack\\Myshopping\\myshop.Web\\wwwroot\\Images\\Products\\40400314-7c8b-4bdb-b7b7-cec4f0cb861d.png",
       "PackagePath": "staticwebassets\\Images\\Products\\40400314-7c8b-4bdb-b7b7-cec4f0cb861d.png"
     },
     {
-      "Id": "E:\\Live\\myshop.Web\\myshop.Web\\wwwroot\\Images\\Products\\42af8ba8-65df-417b-908c-ffb6cfcdfc0c.jpg",
+      "Id": "F:\\full-stack\\Myshopping\\myshop.Web\\wwwroot\\Images\\Products\\42af8ba8-65df-417b-908c-ffb6cfcdfc0c.jpg",
       "PackagePath": "staticwebassets\\Images\\Products\\42af8ba8-65df-417b-908c-ffb6cfcdfc0c.jpg"
     },
     {
-      "Id": "E:\\Live\\myshop.Web\\myshop.Web\\wwwroot\\Images\\Products\\4c4284fe-3fed-4d26-953a-d12762d3e240.jpg",
+      "Id": "F:\\full-stack\\Myshopping\\myshop.Web\\wwwroot\\Images\\Products\\4c4284fe-3fed-4d26-953a-d12762d3e240.jpg",
       "PackagePath": "staticwebassets\\Images\\Products\\4c4284fe-3fed-4d26-953a-d12762d3e240.jpg"
     },
     {
-      "Id": "E:\\Live\\myshop.Web\\myshop.Web\\wwwroot\\Images\\Products\\5f4d61ba-5f02-4a22-8305-1148a341710f.jpg",
+      "Id": "F:\\full-stack\\Myshopping\\myshop.Web\\wwwroot\\Images\\Products\\5f4d61ba-5f02-4a22-8305-1148a341710f.jpg",
       "PackagePath": "staticwebassets\\Images\\Products\\5f4d61ba-5f02-4a22-8305-1148a341710f.jpg"
     },
     {
-      "Id": "E:\\Live\\myshop.Web\\myshop.Web\\wwwroot\\Images\\Products\\64bdc0f2-1c6a-4b74-88e2-4a68b2cc213a.jpg",
+      "Id": "F:\\full-stack\\Myshopping\\myshop.Web\\wwwroot\\Images\\Products\\64bdc0f2-1c6a-4b74-88e2-4a68b2cc213a.jpg",
       "PackagePath": "staticwebassets\\Images\\Products\\64bdc0f2-1c6a-4b74-88e2-4a68b2cc213a.jpg"
     },
     {
-      "Id": "E:\\Live\\myshop.Web\\myshop.Web\\wwwroot\\Images\\Products\\6e4d4b55-22b1-4358-834f-2cecc6123b3c.jpg",
+      "Id": "F:\\full-stack\\Myshopping\\myshop.Web\\wwwroot\\Images\\Products\\6e4d4b55-22b1-4358-834f-2cecc6123b3c.jpg",
       "PackagePath": "staticwebassets\\Images\\Products\\6e4d4b55-22b1-4358-834f-2cecc6123b3c.jpg"
     },
     {
-      "Id": "E:\\Live\\myshop.Web\\myshop.Web\\wwwroot\\Images\\Products\\6f147049-df7e-4877-ab8f-56d8966dac89.jpg",
+      "Id": "F:\\full-stack\\Myshopping\\myshop.Web\\wwwroot\\Images\\Products\\6f147049-df7e-4877-ab8f-56d8966dac89.jpg",
       "PackagePath": "staticwebassets\\Images\\Products\\6f147049-df7e-4877-ab8f-56d8966dac89.jpg"
     },
     {
-      "Id": "E:\\Live\\myshop.Web\\myshop.Web\\wwwroot\\Images\\Products\\7462ab44-1ae1-490d-bf55-c3c550ce72c2.jpg",
+      "Id": "F:\\full-stack\\Myshopping\\myshop.Web\\wwwroot\\Images\\Products\\7462ab44-1ae1-490d-bf55-c3c550ce72c2.jpg",
       "PackagePath": "staticwebassets\\Images\\Products\\7462ab44-1ae1-490d-bf55-c3c550ce72c2.jpg"
     },
     {
-      "Id": "E:\\Live\\myshop.Web\\myshop.Web\\wwwroot\\Images\\Products\\7d3c02d2-1d67-4ab3-aec5-82ac69cf1974.jpg",
+      "Id": "F:\\full-stack\\Myshopping\\myshop.Web\\wwwroot\\Images\\Products\\7d3c02d2-1d67-4ab3-aec5-82ac69cf1974.jpg",
       "PackagePath": "staticwebassets\\Images\\Products\\7d3c02d2-1d67-4ab3-aec5-82ac69cf1974.jpg"
     },
     {
-      "Id": "E:\\Live\\myshop.Web\\myshop.Web\\wwwroot\\Images\\Products\\85c32add-7f39-465b-8a15-c6cb97a47c32.jpg",
+      "Id": "F:\\full-stack\\Myshopping\\myshop.Web\\wwwroot\\Images\\Products\\85c32add-7f39-465b-8a15-c6cb97a47c32.jpg",
       "PackagePath": "staticwebassets\\Images\\Products\\85c32add-7f39-465b-8a15-c6cb97a47c32.jpg"
     },
     {
-      "Id": "E:\\Live\\myshop.Web\\myshop.Web\\wwwroot\\Images\\Products\\8b3492a3-7fbd-4356-adaf-532482a6e48e.jpg",
+      "Id": "F:\\full-stack\\Myshopping\\myshop.Web\\wwwroot\\Images\\Products\\8b3492a3-7fbd-4356-adaf-532482a6e48e.jpg",
       "PackagePath": "staticwebassets\\Images\\Products\\8b3492a3-7fbd-4356-adaf-532482a6e48e.jpg"
     },
     {
-      "Id": "E:\\Live\\myshop.Web\\myshop.Web\\wwwroot\\Images\\Products\\8ede2b3b-ae2d-4b87-a15e-be0298d3f3e8.jpg",
+      "Id": "F:\\full-stack\\Myshopping\\myshop.Web\\wwwroot\\Images\\Products\\8ede2b3b-ae2d-4b87-a15e-be0298d3f3e8.jpg",
       "PackagePath": "staticwebassets\\Images\\Products\\8ede2b3b-ae2d-4b87-a15e-be0298d3f3e8.jpg"
     },
     {
-      "Id": "E:\\Live\\myshop.Web\\myshop.Web\\wwwroot\\Images\\Products\\8fc0a8d0-f1c0-4bca-9b0a-2cebff026cda.png",
+      "Id": "F:\\full-stack\\Myshopping\\myshop.Web\\wwwroot\\Images\\Products\\8fc0a8d0-f1c0-4bca-9b0a-2cebff026cda.png",
       "PackagePath": "staticwebassets\\Images\\Products\\8fc0a8d0-f1c0-4bca-9b0a-2cebff026cda.png"
     },
     {
-      "Id": "E:\\Live\\myshop.Web\\myshop.Web\\wwwroot\\Images\\Products\\922f1001-8532-4e79-8964-3e843303d624.jpg",
+      "Id": "F:\\full-stack\\Myshopping\\myshop.Web\\wwwroot\\Images\\Products\\922f1001-8532-4e79-8964-3e843303d624.jpg",
       "PackagePath": "staticwebassets\\Images\\Products\\922f1001-8532-4e79-8964-3e843303d624.jpg"
     },
     {
-      "Id": "E:\\Live\\myshop.Web\\myshop.Web\\wwwroot\\Images\\Products\\927524ce-cf58-4eea-9e36-d29b9edc539a.jpg",
+      "Id": "F:\\full-stack\\Myshopping\\myshop.Web\\wwwroot\\Images\\Products\\927524ce-cf58-4eea-9e36-d29b9edc539a.jpg",
       "PackagePath": "staticwebassets\\Images\\Products\\927524ce-cf58-4eea-9e36-d29b9edc539a.jpg"
     },
     {
-      "Id": "E:\\Live\\myshop.Web\\myshop.Web\\wwwroot\\Images\\Products\\94ce7506-5034-4417-a9f2-4697c06ea99a.jpg",
+      "Id": "F:\\full-stack\\Myshopping\\myshop.Web\\wwwroot\\Images\\Products\\94ce7506-5034-4417-a9f2-4697c06ea99a.jpg",
       "PackagePath": "staticwebassets\\Images\\Products\\94ce7506-5034-4417-a9f2-4697c06ea99a.jpg"
     },
     {
-      "Id": "E:\\Live\\myshop.Web\\myshop.Web\\wwwroot\\Images\\Products\\9a97b6b2-b0f0-4310-ba8b-26a168f48de2.jpg",
+      "Id": "F:\\full-stack\\Myshopping\\myshop.Web\\wwwroot\\Images\\Products\\9a97b6b2-b0f0-4310-ba8b-26a168f48de2.jpg",
       "PackagePath": "staticwebassets\\Images\\Products\\9a97b6b2-b0f0-4310-ba8b-26a168f48de2.jpg"
     },
     {
-      "Id": "E:\\Live\\myshop.Web\\myshop.Web\\wwwroot\\Images\\Products\\a76c3678-23ae-48ab-a4b1-84b7d22bf27f.jpg",
+      "Id": "F:\\full-stack\\Myshopping\\myshop.Web\\wwwroot\\Images\\Products\\a76c3678-23ae-48ab-a4b1-84b7d22bf27f.jpg",
       "PackagePath": "staticwebassets\\Images\\Products\\a76c3678-23ae-48ab-a4b1-84b7d22bf27f.jpg"
     },
     {
-      "Id": "E:\\Live\\myshop.Web\\myshop.Web\\wwwroot\\Images\\Products\\ac682fc5-fad4-485e-a800-a2a2893fa8ab.jpg",
+      "Id": "F:\\full-stack\\Myshopping\\myshop.Web\\wwwroot\\Images\\Products\\ac682fc5-fad4-485e-a800-a2a2893fa8ab.jpg",
       "PackagePath": "staticwebassets\\Images\\Products\\ac682fc5-fad4-485e-a800-a2a2893fa8ab.jpg"
     },
     {
-      "Id": "E:\\Live\\myshop.Web\\myshop.Web\\wwwroot\\Images\\Products\\bf36fcdf-954c-4602-8623-6711534e873e.jpg",
+      "Id": "F:\\full-stack\\Myshopping\\myshop.Web\\wwwroot\\Images\\Products\\bf36fcdf-954c-4602-8623-6711534e873e.jpg",
       "PackagePath": "staticwebassets\\Images\\Products\\bf36fcdf-954c-4602-8623-6711534e873e.jpg"
     },
     {
-      "Id": "E:\\Live\\myshop.Web\\myshop.Web\\wwwroot\\Images\\Products\\c016a8d4-7dba-4f7e-b532-dae4be5cfaa2.jpg",
-      "PackagePath": "staticwebassets\\Images\\Products\\c016a8d4-7dba-4f7e-b532-dae4be5cfaa2.jpg"
-    },
-    {
-      "Id": "E:\\Live\\myshop.Web\\myshop.Web\\wwwroot\\Images\\Products\\cc5daf8c-d71b-4a7b-b212-f923aa0274a9.jpg",
+      "Id": "F:\\full-stack\\Myshopping\\myshop.Web\\wwwroot\\Images\\Products\\cc5daf8c-d71b-4a7b-b212-f923aa0274a9.jpg",
       "PackagePath": "staticwebassets\\Images\\Products\\cc5daf8c-d71b-4a7b-b212-f923aa0274a9.jpg"
     },
     {
-      "Id": "E:\\Live\\myshop.Web\\myshop.Web\\wwwroot\\Images\\Products\\e1b82bb1-13bc-40fe-a3a0-8dc18e0425ab.jpg",
+      "Id": "F:\\full-stack\\Myshopping\\myshop.Web\\wwwroot\\Images\\Products\\e1b82bb1-13bc-40fe-a3a0-8dc18e0425ab.jpg",
       "PackagePath": "staticwebassets\\Images\\Products\\e1b82bb1-13bc-40fe-a3a0-8dc18e0425ab.jpg"
     },
     {
-      "Id": "E:\\Live\\myshop.Web\\myshop.Web\\wwwroot\\Images\\Products\\ef491e09-7bef-4e18-af5c-71441104b8eb.jpg",
+      "Id": "F:\\full-stack\\Myshopping\\myshop.Web\\wwwroot\\Images\\Products\\ef491e09-7bef-4e18-af5c-71441104b8eb.jpg",
       "PackagePath": "staticwebassets\\Images\\Products\\ef491e09-7bef-4e18-af5c-71441104b8eb.jpg"
     },
     {
-      "Id": "E:\\Live\\myshop.Web\\myshop.Web\\wwwroot\\css\\adminlte.css",
+      "Id": "F:\\full-stack\\Myshopping\\myshop.Web\\wwwroot\\css\\adminlte.css",
       "PackagePath": "staticwebassets\\css\\adminlte.css"
     },
     {
-      "Id": "E:\\Live\\myshop.Web\\myshop.Web\\wwwroot\\css\\adminlte.css.map",
+      "Id": "F:\\full-stack\\Myshopping\\myshop.Web\\wwwroot\\css\\adminlte.css.map",
       "PackagePath": "staticwebassets\\css\\adminlte.css.map"
     },
     {
-      "Id": "E:\\Live\\myshop.Web\\myshop.Web\\wwwroot\\css\\adminlte.min.css",
+      "Id": "F:\\full-stack\\Myshopping\\myshop.Web\\wwwroot\\css\\adminlte.min.css",
       "PackagePath": "staticwebassets\\css\\adminlte.min.css"
     },
     {
-      "Id": "E:\\Live\\myshop.Web\\myshop.Web\\wwwroot\\css\\adminlte.min.css.map",
+      "Id": "F:\\full-stack\\Myshopping\\myshop.Web\\wwwroot\\css\\adminlte.min.css.map",
       "PackagePath": "staticwebassets\\css\\adminlte.min.css.map"
     },
     {
-      "Id": "E:\\Live\\myshop.Web\\myshop.Web\\wwwroot\\css\\alt\\adminlte.components.css",
+      "Id": "F:\\full-stack\\Myshopping\\myshop.Web\\wwwroot\\css\\alt\\adminlte.components.css",
       "PackagePath": "staticwebassets\\css\\alt\\adminlte.components.css"
     },
     {
-      "Id": "E:\\Live\\myshop.Web\\myshop.Web\\wwwroot\\css\\alt\\adminlte.components.css.map",
+      "Id": "F:\\full-stack\\Myshopping\\myshop.Web\\wwwroot\\css\\alt\\adminlte.components.css.map",
       "PackagePath": "staticwebassets\\css\\alt\\adminlte.components.css.map"
     },
     {
-      "Id": "E:\\Live\\myshop.Web\\myshop.Web\\wwwroot\\css\\alt\\adminlte.components.min.css",
+      "Id": "F:\\full-stack\\Myshopping\\myshop.Web\\wwwroot\\css\\alt\\adminlte.components.min.css",
       "PackagePath": "staticwebassets\\css\\alt\\adminlte.components.min.css"
     },
     {
-      "Id": "E:\\Live\\myshop.Web\\myshop.Web\\wwwroot\\css\\alt\\adminlte.components.min.css.map",
+      "Id": "F:\\full-stack\\Myshopping\\myshop.Web\\wwwroot\\css\\alt\\adminlte.components.min.css.map",
       "PackagePath": "staticwebassets\\css\\alt\\adminlte.components.min.css.map"
     },
     {
-      "Id": "E:\\Live\\myshop.Web\\myshop.Web\\wwwroot\\css\\alt\\adminlte.core.css",
+      "Id": "F:\\full-stack\\Myshopping\\myshop.Web\\wwwroot\\css\\alt\\adminlte.core.css",
       "PackagePath": "staticwebassets\\css\\alt\\adminlte.core.css"
     },
     {
-      "Id": "E:\\Live\\myshop.Web\\myshop.Web\\wwwroot\\css\\alt\\adminlte.core.css.map",
+      "Id": "F:\\full-stack\\Myshopping\\myshop.Web\\wwwroot\\css\\alt\\adminlte.core.css.map",
       "PackagePath": "staticwebassets\\css\\alt\\adminlte.core.css.map"
     },
     {
-      "Id": "E:\\Live\\myshop.Web\\myshop.Web\\wwwroot\\css\\alt\\adminlte.core.min.css",
+      "Id": "F:\\full-stack\\Myshopping\\myshop.Web\\wwwroot\\css\\alt\\adminlte.core.min.css",
       "PackagePath": "staticwebassets\\css\\alt\\adminlte.core.min.css"
     },
     {
-      "Id": "E:\\Live\\myshop.Web\\myshop.Web\\wwwroot\\css\\alt\\adminlte.core.min.css.map",
+      "Id": "F:\\full-stack\\Myshopping\\myshop.Web\\wwwroot\\css\\alt\\adminlte.core.min.css.map",
       "PackagePath": "staticwebassets\\css\\alt\\adminlte.core.min.css.map"
     },
     {
-      "Id": "E:\\Live\\myshop.Web\\myshop.Web\\wwwroot\\css\\alt\\adminlte.extra-components.css",
+      "Id": "F:\\full-stack\\Myshopping\\myshop.Web\\wwwroot\\css\\alt\\adminlte.extra-components.css",
       "PackagePath": "staticwebassets\\css\\alt\\adminlte.extra-components.css"
     },
     {
-      "Id": "E:\\Live\\myshop.Web\\myshop.Web\\wwwroot\\css\\alt\\adminlte.extra-components.css.map",
+      "Id": "F:\\full-stack\\Myshopping\\myshop.Web\\wwwroot\\css\\alt\\adminlte.extra-components.css.map",
       "PackagePath": "staticwebassets\\css\\alt\\adminlte.extra-components.css.map"
     },
     {
-      "Id": "E:\\Live\\myshop.Web\\myshop.Web\\wwwroot\\css\\alt\\adminlte.extra-components.min.css",
+      "Id": "F:\\full-stack\\Myshopping\\myshop.Web\\wwwroot\\css\\alt\\adminlte.extra-components.min.css",
       "PackagePath": "staticwebassets\\css\\alt\\adminlte.extra-components.min.css"
     },
     {
-      "Id": "E:\\Live\\myshop.Web\\myshop.Web\\wwwroot\\css\\alt\\adminlte.extra-components.min.css.map",
+      "Id": "F:\\full-stack\\Myshopping\\myshop.Web\\wwwroot\\css\\alt\\adminlte.extra-components.min.css.map",
       "PackagePath": "staticwebassets\\css\\alt\\adminlte.extra-components.min.css.map"
     },
     {
-      "Id": "E:\\Live\\myshop.Web\\myshop.Web\\wwwroot\\css\\alt\\adminlte.light.css",
+      "Id": "F:\\full-stack\\Myshopping\\myshop.Web\\wwwroot\\css\\alt\\adminlte.light.css",
       "PackagePath": "staticwebassets\\css\\alt\\adminlte.light.css"
     },
     {
-      "Id": "E:\\Live\\myshop.Web\\myshop.Web\\wwwroot\\css\\alt\\adminlte.light.css.map",
+      "Id": "F:\\full-stack\\Myshopping\\myshop.Web\\wwwroot\\css\\alt\\adminlte.light.css.map",
       "PackagePath": "staticwebassets\\css\\alt\\adminlte.light.css.map"
     },
     {
-      "Id": "E:\\Live\\myshop.Web\\myshop.Web\\wwwroot\\css\\alt\\adminlte.light.min.css",
+      "Id": "F:\\full-stack\\Myshopping\\myshop.Web\\wwwroot\\css\\alt\\adminlte.light.min.css",
       "PackagePath": "staticwebassets\\css\\alt\\adminlte.light.min.css"
     },
     {
-      "Id": "E:\\Live\\myshop.Web\\myshop.Web\\wwwroot\\css\\alt\\adminlte.light.min.css.map",
+      "Id": "F:\\full-stack\\Myshopping\\myshop.Web\\wwwroot\\css\\alt\\adminlte.light.min.css.map",
       "PackagePath": "staticwebassets\\css\\alt\\adminlte.light.min.css.map"
     },
     {
-      "Id": "E:\\Live\\myshop.Web\\myshop.Web\\wwwroot\\css\\alt\\adminlte.pages.css",
+      "Id": "F:\\full-stack\\Myshopping\\myshop.Web\\wwwroot\\css\\alt\\adminlte.pages.css",
       "PackagePath": "staticwebassets\\css\\alt\\adminlte.pages.css"
     },
     {
-      "Id": "E:\\Live\\myshop.Web\\myshop.Web\\wwwroot\\css\\alt\\adminlte.pages.css.map",
+      "Id": "F:\\full-stack\\Myshopping\\myshop.Web\\wwwroot\\css\\alt\\adminlte.pages.css.map",
       "PackagePath": "staticwebassets\\css\\alt\\adminlte.pages.css.map"
     },
     {
-      "Id": "E:\\Live\\myshop.Web\\myshop.Web\\wwwroot\\css\\alt\\adminlte.pages.min.css",
+      "Id": "F:\\full-stack\\Myshopping\\myshop.Web\\wwwroot\\css\\alt\\adminlte.pages.min.css",
       "PackagePath": "staticwebassets\\css\\alt\\adminlte.pages.min.css"
     },
     {
-      "Id": "E:\\Live\\myshop.Web\\myshop.Web\\wwwroot\\css\\alt\\adminlte.pages.min.css.map",
+      "Id": "F:\\full-stack\\Myshopping\\myshop.Web\\wwwroot\\css\\alt\\adminlte.pages.min.css.map",
       "PackagePath": "staticwebassets\\css\\alt\\adminlte.pages.min.css.map"
     },
     {
-      "Id": "E:\\Live\\myshop.Web\\myshop.Web\\wwwroot\\css\\alt\\adminlte.plugins.css",
+      "Id": "F:\\full-stack\\Myshopping\\myshop.Web\\wwwroot\\css\\alt\\adminlte.plugins.css",
       "PackagePath": "staticwebassets\\css\\alt\\adminlte.plugins.css"
     },
     {
-      "Id": "E:\\Live\\myshop.Web\\myshop.Web\\wwwroot\\css\\alt\\adminlte.plugins.css.map",
+      "Id": "F:\\full-stack\\Myshopping\\myshop.Web\\wwwroot\\css\\alt\\adminlte.plugins.css.map",
       "PackagePath": "staticwebassets\\css\\alt\\adminlte.plugins.css.map"
     },
     {
-      "Id": "E:\\Live\\myshop.Web\\myshop.Web\\wwwroot\\css\\alt\\adminlte.plugins.min.css",
+      "Id": "F:\\full-stack\\Myshopping\\myshop.Web\\wwwroot\\css\\alt\\adminlte.plugins.min.css",
       "PackagePath": "staticwebassets\\css\\alt\\adminlte.plugins.min.css"
     },
     {
-      "Id": "E:\\Live\\myshop.Web\\myshop.Web\\wwwroot\\css\\alt\\adminlte.plugins.min.css.map",
+      "Id": "F:\\full-stack\\Myshopping\\myshop.Web\\wwwroot\\css\\alt\\adminlte.plugins.min.css.map",
       "PackagePath": "staticwebassets\\css\\alt\\adminlte.plugins.min.css.map"
     },
     {
-      "Id": "E:\\Live\\myshop.Web\\myshop.Web\\wwwroot\\css\\site.css",
+      "Id": "F:\\full-stack\\Myshopping\\myshop.Web\\wwwroot\\css\\site.css",
       "PackagePath": "staticwebassets\\css\\site.css"
     },
     {
-      "Id": "E:\\Live\\myshop.Web\\myshop.Web\\wwwroot\\css\\summary.css",
+      "Id": "F:\\full-stack\\Myshopping\\myshop.Web\\wwwroot\\css\\summary.css",
       "PackagePath": "staticwebassets\\css\\summary.css"
     },
     {
-      "Id": "E:\\Live\\myshop.Web\\myshop.Web\\wwwroot\\customer\\assets\\favicon.ico",
+      "Id": "F:\\full-stack\\Myshopping\\myshop.Web\\wwwroot\\customer\\assets\\favicon.ico",
       "PackagePath": "staticwebassets\\customer\\assets\\favicon.ico"
     },
     {
-      "Id": "E:\\Live\\myshop.Web\\myshop.Web\\wwwroot\\customer\\css\\styles.css",
+      "Id": "F:\\full-stack\\Myshopping\\myshop.Web\\wwwroot\\customer\\css\\styles.css",
       "PackagePath": "staticwebassets\\customer\\css\\styles.css"
     },
     {
-      "Id": "E:\\Live\\myshop.Web\\myshop.Web\\wwwroot\\customer\\js\\scripts.js",
+      "Id": "F:\\full-stack\\Myshopping\\myshop.Web\\wwwroot\\customer\\js\\scripts.js",
       "PackagePath": "staticwebassets\\customer\\js\\scripts.js"
     },
     {
-      "Id": "E:\\Live\\myshop.Web\\myshop.Web\\wwwroot\\favicon.ico",
+      "Id": "F:\\full-stack\\Myshopping\\myshop.Web\\wwwroot\\favicon.ico",
       "PackagePath": "staticwebassets\\favicon.ico"
     },
     {
-      "Id": "E:\\Live\\myshop.Web\\myshop.Web\\wwwroot\\img\\AdminLTELogo.png",
+      "Id": "F:\\full-stack\\Myshopping\\myshop.Web\\wwwroot\\img\\AdminLTELogo.png",
       "PackagePath": "staticwebassets\\img\\AdminLTELogo.png"
     },
     {
-      "Id": "E:\\Live\\myshop.Web\\myshop.Web\\wwwroot\\img\\avatar.png",
+      "Id": "F:\\full-stack\\Myshopping\\myshop.Web\\wwwroot\\img\\avatar.png",
       "PackagePath": "staticwebassets\\img\\avatar.png"
     },
     {
-      "Id": "E:\\Live\\myshop.Web\\myshop.Web\\wwwroot\\img\\avatar2.png",
+      "Id": "F:\\full-stack\\Myshopping\\myshop.Web\\wwwroot\\img\\avatar2.png",
       "PackagePath": "staticwebassets\\img\\avatar2.png"
     },
     {
-      "Id": "E:\\Live\\myshop.Web\\myshop.Web\\wwwroot\\img\\avatar3.png",
+      "Id": "F:\\full-stack\\Myshopping\\myshop.Web\\wwwroot\\img\\avatar3.png",
       "PackagePath": "staticwebassets\\img\\avatar3.png"
     },
     {
-      "Id": "E:\\Live\\myshop.Web\\myshop.Web\\wwwroot\\img\\avatar4.png",
+      "Id": "F:\\full-stack\\Myshopping\\myshop.Web\\wwwroot\\img\\avatar4.png",
       "PackagePath": "staticwebassets\\img\\avatar4.png"
     },
     {
-      "Id": "E:\\Live\\myshop.Web\\myshop.Web\\wwwroot\\img\\avatar5.png",
+      "Id": "F:\\full-stack\\Myshopping\\myshop.Web\\wwwroot\\img\\avatar5.png",
       "PackagePath": "staticwebassets\\img\\avatar5.png"
     },
     {
-      "Id": "E:\\Live\\myshop.Web\\myshop.Web\\wwwroot\\img\\boxed-bg.jpg",
+      "Id": "F:\\full-stack\\Myshopping\\myshop.Web\\wwwroot\\img\\boxed-bg.jpg",
       "PackagePath": "staticwebassets\\img\\boxed-bg.jpg"
     },
     {
-      "Id": "E:\\Live\\myshop.Web\\myshop.Web\\wwwroot\\img\\boxed-bg.png",
+      "Id": "F:\\full-stack\\Myshopping\\myshop.Web\\wwwroot\\img\\boxed-bg.png",
       "PackagePath": "staticwebassets\\img\\boxed-bg.png"
     },
     {
-      "Id": "E:\\Live\\myshop.Web\\myshop.Web\\wwwroot\\img\\confirm.jpg",
+      "Id": "F:\\full-stack\\Myshopping\\myshop.Web\\wwwroot\\img\\confirm.jpg",
       "PackagePath": "staticwebassets\\img\\confirm.jpg"
     },
     {
-      "Id": "E:\\Live\\myshop.Web\\myshop.Web\\wwwroot\\img\\credit\\american-express.png",
+      "Id": "F:\\full-stack\\Myshopping\\myshop.Web\\wwwroot\\img\\credit\\american-express.png",
       "PackagePath": "staticwebassets\\img\\credit\\american-express.png"
     },
     {
-      "Id": "E:\\Live\\myshop.Web\\myshop.Web\\wwwroot\\img\\credit\\cirrus.png",
+      "Id": "F:\\full-stack\\Myshopping\\myshop.Web\\wwwroot\\img\\credit\\cirrus.png",
       "PackagePath": "staticwebassets\\img\\credit\\cirrus.png"
     },
     {
-      "Id": "E:\\Live\\myshop.Web\\myshop.Web\\wwwroot\\img\\credit\\mastercard.png",
+      "Id": "F:\\full-stack\\Myshopping\\myshop.Web\\wwwroot\\img\\credit\\mastercard.png",
       "PackagePath": "staticwebassets\\img\\credit\\mastercard.png"
     },
     {
-      "Id": "E:\\Live\\myshop.Web\\myshop.Web\\wwwroot\\img\\credit\\paypal.png",
+      "Id": "F:\\full-stack\\Myshopping\\myshop.Web\\wwwroot\\img\\credit\\paypal.png",
       "PackagePath": "staticwebassets\\img\\credit\\paypal.png"
     },
     {
-      "Id": "E:\\Live\\myshop.Web\\myshop.Web\\wwwroot\\img\\credit\\paypal2.png",
+      "Id": "F:\\full-stack\\Myshopping\\myshop.Web\\wwwroot\\img\\credit\\paypal2.png",
       "PackagePath": "staticwebassets\\img\\credit\\paypal2.png"
     },
     {
-      "Id": "E:\\Live\\myshop.Web\\myshop.Web\\wwwroot\\img\\credit\\visa.png",
+      "Id": "F:\\full-stack\\Myshopping\\myshop.Web\\wwwroot\\img\\credit\\visa.png",
       "PackagePath": "staticwebassets\\img\\credit\\visa.png"
     },
     {
-      "Id": "E:\\Live\\myshop.Web\\myshop.Web\\wwwroot\\img\\default-150x150.png",
+      "Id": "F:\\full-stack\\Myshopping\\myshop.Web\\wwwroot\\img\\default-150x150.png",
       "PackagePath": "staticwebassets\\img\\default-150x150.png"
     },
     {
-      "Id": "E:\\Live\\myshop.Web\\myshop.Web\\wwwroot\\img\\icons.png",
+      "Id": "F:\\full-stack\\Myshopping\\myshop.Web\\wwwroot\\img\\icons.png",
       "PackagePath": "staticwebassets\\img\\icons.png"
     },
     {
-      "Id": "E:\\Live\\myshop.Web\\myshop.Web\\wwwroot\\img\\login@4x.png",
+      "Id": "F:\\full-stack\\Myshopping\\myshop.Web\\wwwroot\\img\\login@4x.png",
       "PackagePath": "staticwebassets\\img\\login@4x.png"
     },
     {
-      "Id": "E:\\Live\\myshop.Web\\myshop.Web\\wwwroot\\img\\photo1.png",
+      "Id": "F:\\full-stack\\Myshopping\\myshop.Web\\wwwroot\\img\\photo1.png",
       "PackagePath": "staticwebassets\\img\\photo1.png"
     },
     {
-      "Id": "E:\\Live\\myshop.Web\\myshop.Web\\wwwroot\\img\\photo2.png",
+      "Id": "F:\\full-stack\\Myshopping\\myshop.Web\\wwwroot\\img\\photo2.png",
       "PackagePath": "staticwebassets\\img\\photo2.png"
     },
     {
-      "Id": "E:\\Live\\myshop.Web\\myshop.Web\\wwwroot\\img\\photo3.jpg",
+      "Id": "F:\\full-stack\\Myshopping\\myshop.Web\\wwwroot\\img\\photo3.jpg",
       "PackagePath": "staticwebassets\\img\\photo3.jpg"
     },
     {
-      "Id": "E:\\Live\\myshop.Web\\myshop.Web\\wwwroot\\img\\photo4.jpg",
+      "Id": "F:\\full-stack\\Myshopping\\myshop.Web\\wwwroot\\img\\photo4.jpg",
       "PackagePath": "staticwebassets\\img\\photo4.jpg"
     },
     {
-      "Id": "E:\\Live\\myshop.Web\\myshop.Web\\wwwroot\\img\\prod-1.jpg",
+      "Id": "F:\\full-stack\\Myshopping\\myshop.Web\\wwwroot\\img\\prod-1.jpg",
       "PackagePath": "staticwebassets\\img\\prod-1.jpg"
     },
     {
-      "Id": "E:\\Live\\myshop.Web\\myshop.Web\\wwwroot\\img\\prod-2.jpg",
+      "Id": "F:\\full-stack\\Myshopping\\myshop.Web\\wwwroot\\img\\prod-2.jpg",
       "PackagePath": "staticwebassets\\img\\prod-2.jpg"
     },
     {
-      "Id": "E:\\Live\\myshop.Web\\myshop.Web\\wwwroot\\img\\prod-3.jpg",
+      "Id": "F:\\full-stack\\Myshopping\\myshop.Web\\wwwroot\\img\\prod-3.jpg",
       "PackagePath": "staticwebassets\\img\\prod-3.jpg"
     },
     {
-      "Id": "E:\\Live\\myshop.Web\\myshop.Web\\wwwroot\\img\\prod-4.jpg",
+      "Id": "F:\\full-stack\\Myshopping\\myshop.Web\\wwwroot\\img\\prod-4.jpg",
       "PackagePath": "staticwebassets\\img\\prod-4.jpg"
     },
     {
-      "Id": "E:\\Live\\myshop.Web\\myshop.Web\\wwwroot\\img\\prod-5.jpg",
+      "Id": "F:\\full-stack\\Myshopping\\myshop.Web\\wwwroot\\img\\prod-5.jpg",
       "PackagePath": "staticwebassets\\img\\prod-5.jpg"
     },
     {
-      "Id": "E:\\Live\\myshop.Web\\myshop.Web\\wwwroot\\img\\user1-128x128.jpg",
+      "Id": "F:\\full-stack\\Myshopping\\myshop.Web\\wwwroot\\img\\user1-128x128.jpg",
       "PackagePath": "staticwebassets\\img\\user1-128x128.jpg"
     },
     {
-      "Id": "E:\\Live\\myshop.Web\\myshop.Web\\wwwroot\\img\\user2-160x160.jpg",
+      "Id": "F:\\full-stack\\Myshopping\\myshop.Web\\wwwroot\\img\\user2-160x160.jpg",
       "PackagePath": "staticwebassets\\img\\user2-160x160.jpg"
     },
     {
-      "Id": "E:\\Live\\myshop.Web\\myshop.Web\\wwwroot\\img\\user3-128x128.jpg",
+      "Id": "F:\\full-stack\\Myshopping\\myshop.Web\\wwwroot\\img\\user3-128x128.jpg",
       "PackagePath": "staticwebassets\\img\\user3-128x128.jpg"
     },
     {
-      "Id": "E:\\Live\\myshop.Web\\myshop.Web\\wwwroot\\img\\user4-128x128.jpg",
+      "Id": "F:\\full-stack\\Myshopping\\myshop.Web\\wwwroot\\img\\user4-128x128.jpg",
       "PackagePath": "staticwebassets\\img\\user4-128x128.jpg"
     },
     {
-      "Id": "E:\\Live\\myshop.Web\\myshop.Web\\wwwroot\\img\\user5-128x128.jpg",
+      "Id": "F:\\full-stack\\Myshopping\\myshop.Web\\wwwroot\\img\\user5-128x128.jpg",
       "PackagePath": "staticwebassets\\img\\user5-128x128.jpg"
     },
     {
-      "Id": "E:\\Live\\myshop.Web\\myshop.Web\\wwwroot\\img\\user6-128x128.jpg",
+      "Id": "F:\\full-stack\\Myshopping\\myshop.Web\\wwwroot\\img\\user6-128x128.jpg",
       "PackagePath": "staticwebassets\\img\\user6-128x128.jpg"
     },
     {
-      "Id": "E:\\Live\\myshop.Web\\myshop.Web\\wwwroot\\img\\user7-128x128.jpg",
+      "Id": "F:\\full-stack\\Myshopping\\myshop.Web\\wwwroot\\img\\user7-128x128.jpg",
       "PackagePath": "staticwebassets\\img\\user7-128x128.jpg"
     },
     {
-      "Id": "E:\\Live\\myshop.Web\\myshop.Web\\wwwroot\\img\\user8-128x128.jpg",
+      "Id": "F:\\full-stack\\Myshopping\\myshop.Web\\wwwroot\\img\\user8-128x128.jpg",
       "PackagePath": "staticwebassets\\img\\user8-128x128.jpg"
     },
     {
-      "Id": "E:\\Live\\myshop.Web\\myshop.Web\\wwwroot\\js\\.eslintrc.json",
+      "Id": "F:\\full-stack\\Myshopping\\myshop.Web\\wwwroot\\js\\.eslintrc.json",
       "PackagePath": "staticwebassets\\js\\.eslintrc.json"
     },
     {
-      "Id": "E:\\Live\\myshop.Web\\myshop.Web\\wwwroot\\js\\adminlte.js",
+      "Id": "F:\\full-stack\\Myshopping\\myshop.Web\\wwwroot\\js\\adminlte.js",
       "PackagePath": "staticwebassets\\js\\adminlte.js"
     },
     {
-      "Id": "E:\\Live\\myshop.Web\\myshop.Web\\wwwroot\\js\\adminlte.js.map",
+      "Id": "F:\\full-stack\\Myshopping\\myshop.Web\\wwwroot\\js\\adminlte.js.map",
       "PackagePath": "staticwebassets\\js\\adminlte.js.map"
     },
     {
-      "Id": "E:\\Live\\myshop.Web\\myshop.Web\\wwwroot\\js\\adminlte.min.js",
+      "Id": "F:\\full-stack\\Myshopping\\myshop.Web\\wwwroot\\js\\adminlte.min.js",
       "PackagePath": "staticwebassets\\js\\adminlte.min.js"
     },
     {
-      "Id": "E:\\Live\\myshop.Web\\myshop.Web\\wwwroot\\js\\adminlte.min.js.map",
+      "Id": "F:\\full-stack\\Myshopping\\myshop.Web\\wwwroot\\js\\adminlte.min.js.map",
       "PackagePath": "staticwebassets\\js\\adminlte.min.js.map"
     },
     {
-      "Id": "E:\\Live\\myshop.Web\\myshop.Web\\wwwroot\\js\\demo.js",
+      "Id": "F:\\full-stack\\Myshopping\\myshop.Web\\wwwroot\\js\\demo.js",
       "PackagePath": "staticwebassets\\js\\demo.js"
     },
     {
-      "Id": "E:\\Live\\myshop.Web\\myshop.Web\\wwwroot\\js\\order.js",
+      "Id": "F:\\full-stack\\Myshopping\\myshop.Web\\wwwroot\\js\\order.js",
       "PackagePath": "staticwebassets\\js\\order.js"
     },
     {
-      "Id": "E:\\Live\\myshop.Web\\myshop.Web\\wwwroot\\js\\pages\\dashboard.js",
+      "Id": "F:\\full-stack\\Myshopping\\myshop.Web\\wwwroot\\js\\pages\\dashboard.js",
       "PackagePath": "staticwebassets\\js\\pages\\dashboard.js"
     },
     {
-      "Id": "E:\\Live\\myshop.Web\\myshop.Web\\wwwroot\\js\\pages\\dashboard2.js",
+      "Id": "F:\\full-stack\\Myshopping\\myshop.Web\\wwwroot\\js\\pages\\dashboard2.js",
       "PackagePath": "staticwebassets\\js\\pages\\dashboard2.js"
     },
     {
-      "Id": "E:\\Live\\myshop.Web\\myshop.Web\\wwwroot\\js\\pages\\dashboard3.js",
+      "Id": "F:\\full-stack\\Myshopping\\myshop.Web\\wwwroot\\js\\pages\\dashboard3.js",
       "PackagePath": "staticwebassets\\js\\pages\\dashboard3.js"
     },
     {
-      "Id": "E:\\Live\\myshop.Web\\myshop.Web\\wwwroot\\js\\products.js",
+      "Id": "F:\\full-stack\\Myshopping\\myshop.Web\\wwwroot\\js\\products.js",
       "PackagePath": "staticwebassets\\js\\products.js"
     },
     {
-      "Id": "E:\\Live\\myshop.Web\\myshop.Web\\wwwroot\\js\\site.js",
+      "Id": "F:\\full-stack\\Myshopping\\myshop.Web\\wwwroot\\js\\site.js",
       "PackagePath": "staticwebassets\\js\\site.js"
     },
     {
-      "Id": "E:\\Live\\myshop.Web\\myshop.Web\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "Id": "F:\\full-stack\\Myshopping\\myshop.Web\\wwwroot\\lib\\bootstrap\\LICENSE",
       "PackagePath": "staticwebassets\\lib\\bootstrap"
     },
     {
-      "Id": "E:\\Live\\myshop.Web\\myshop.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "Id": "F:\\full-stack\\Myshopping\\myshop.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
     },
     {
-      "Id": "E:\\Live\\myshop.Web\\myshop.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "Id": "F:\\full-stack\\Myshopping\\myshop.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
     },
     {
-      "Id": "E:\\Live\\myshop.Web\\myshop.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "Id": "F:\\full-stack\\Myshopping\\myshop.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
     },
     {
-      "Id": "E:\\Live\\myshop.Web\\myshop.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "Id": "F:\\full-stack\\Myshopping\\myshop.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
     },
     {
-      "Id": "E:\\Live\\myshop.Web\\myshop.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "Id": "F:\\full-stack\\Myshopping\\myshop.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
     },
     {
-      "Id": "E:\\Live\\myshop.Web\\myshop.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "Id": "F:\\full-stack\\Myshopping\\myshop.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
     },
     {
-      "Id": "E:\\Live\\myshop.Web\\myshop.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "Id": "F:\\full-stack\\Myshopping\\myshop.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
     },
     {
-      "Id": "E:\\Live\\myshop.Web\\myshop.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "Id": "F:\\full-stack\\Myshopping\\myshop.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
     },
     {
-      "Id": "E:\\Live\\myshop.Web\\myshop.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "Id": "F:\\full-stack\\Myshopping\\myshop.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
     },
     {
-      "Id": "E:\\Live\\myshop.Web\\myshop.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "Id": "F:\\full-stack\\Myshopping\\myshop.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
     },
     {
-      "Id": "E:\\Live\\myshop.Web\\myshop.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "Id": "F:\\full-stack\\Myshopping\\myshop.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
     },
     {
-      "Id": "E:\\Live\\myshop.Web\\myshop.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "Id": "F:\\full-stack\\Myshopping\\myshop.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
     },
     {
-      "Id": "E:\\Live\\myshop.Web\\myshop.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "Id": "F:\\full-stack\\Myshopping\\myshop.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
     },
     {
-      "Id": "E:\\Live\\myshop.Web\\myshop.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "Id": "F:\\full-stack\\Myshopping\\myshop.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
     },
     {
-      "Id": "E:\\Live\\myshop.Web\\myshop.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "Id": "F:\\full-stack\\Myshopping\\myshop.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
     },
     {
-      "Id": "E:\\Live\\myshop.Web\\myshop.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "Id": "F:\\full-stack\\Myshopping\\myshop.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
     },
     {
-      "Id": "E:\\Live\\myshop.Web\\myshop.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "Id": "F:\\full-stack\\Myshopping\\myshop.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
     },
     {
-      "Id": "E:\\Live\\myshop.Web\\myshop.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "Id": "F:\\full-stack\\Myshopping\\myshop.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
     },
     {
-      "Id": "E:\\Live\\myshop.Web\\myshop.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "Id": "F:\\full-stack\\Myshopping\\myshop.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
     },
     {
-      "Id": "E:\\Live\\myshop.Web\\myshop.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "Id": "F:\\full-stack\\Myshopping\\myshop.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
     },
     {
-      "Id": "E:\\Live\\myshop.Web\\myshop.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "Id": "F:\\full-stack\\Myshopping\\myshop.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
     },
     {
-      "Id": "E:\\Live\\myshop.Web\\myshop.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "Id": "F:\\full-stack\\Myshopping\\myshop.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
     },
     {
-      "Id": "E:\\Live\\myshop.Web\\myshop.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "Id": "F:\\full-stack\\Myshopping\\myshop.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
     },
     {
-      "Id": "E:\\Live\\myshop.Web\\myshop.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "Id": "F:\\full-stack\\Myshopping\\myshop.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
     },
     {
-      "Id": "E:\\Live\\myshop.Web\\myshop.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "Id": "F:\\full-stack\\Myshopping\\myshop.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
     },
     {
-      "Id": "E:\\Live\\myshop.Web\\myshop.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "Id": "F:\\full-stack\\Myshopping\\myshop.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
     },
     {
-      "Id": "E:\\Live\\myshop.Web\\myshop.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "Id": "F:\\full-stack\\Myshopping\\myshop.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
     },
     {
-      "Id": "E:\\Live\\myshop.Web\\myshop.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "Id": "F:\\full-stack\\Myshopping\\myshop.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
     },
     {
-      "Id": "E:\\Live\\myshop.Web\\myshop.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "Id": "F:\\full-stack\\Myshopping\\myshop.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
     },
     {
-      "Id": "E:\\Live\\myshop.Web\\myshop.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "Id": "F:\\full-stack\\Myshopping\\myshop.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
     },
     {
-      "Id": "E:\\Live\\myshop.Web\\myshop.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "Id": "F:\\full-stack\\Myshopping\\myshop.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
     },
     {
-      "Id": "E:\\Live\\myshop.Web\\myshop.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "Id": "F:\\full-stack\\Myshopping\\myshop.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
     },
     {
-      "Id": "E:\\Live\\myshop.Web\\myshop.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "Id": "F:\\full-stack\\Myshopping\\myshop.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
     },
     {
-      "Id": "E:\\Live\\myshop.Web\\myshop.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "Id": "F:\\full-stack\\Myshopping\\myshop.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
     },
     {
-      "Id": "E:\\Live\\myshop.Web\\myshop.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "Id": "F:\\full-stack\\Myshopping\\myshop.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
     },
     {
-      "Id": "E:\\Live\\myshop.Web\\myshop.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "Id": "F:\\full-stack\\Myshopping\\myshop.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
     },
     {
-      "Id": "E:\\Live\\myshop.Web\\myshop.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "Id": "F:\\full-stack\\Myshopping\\myshop.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
     },
     {
-      "Id": "E:\\Live\\myshop.Web\\myshop.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "Id": "F:\\full-stack\\Myshopping\\myshop.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
     },
     {
-      "Id": "E:\\Live\\myshop.Web\\myshop.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "Id": "F:\\full-stack\\Myshopping\\myshop.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
     },
     {
-      "Id": "E:\\Live\\myshop.Web\\myshop.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "Id": "F:\\full-stack\\Myshopping\\myshop.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
     },
     {
-      "Id": "E:\\Live\\myshop.Web\\myshop.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "Id": "F:\\full-stack\\Myshopping\\myshop.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
     },
     {
-      "Id": "E:\\Live\\myshop.Web\\myshop.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "Id": "F:\\full-stack\\Myshopping\\myshop.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
     },
     {
-      "Id": "E:\\Live\\myshop.Web\\myshop.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "Id": "F:\\full-stack\\Myshopping\\myshop.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
     },
     {
-      "Id": "E:\\Live\\myshop.Web\\myshop.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "Id": "F:\\full-stack\\Myshopping\\myshop.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
     },
     {
-      "Id": "E:\\Live\\myshop.Web\\myshop.Web\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "Id": "F:\\full-stack\\Myshopping\\myshop.Web\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
       "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
     },
     {
-      "Id": "E:\\Live\\myshop.Web\\myshop.Web\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "Id": "F:\\full-stack\\Myshopping\\myshop.Web\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
     },
     {
-      "Id": "E:\\Live\\myshop.Web\\myshop.Web\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "Id": "F:\\full-stack\\Myshopping\\myshop.Web\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
     },
     {
-      "Id": "E:\\Live\\myshop.Web\\myshop.Web\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "Id": "F:\\full-stack\\Myshopping\\myshop.Web\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
     },
     {
-      "Id": "E:\\Live\\myshop.Web\\myshop.Web\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "Id": "F:\\full-stack\\Myshopping\\myshop.Web\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
     },
     {
-      "Id": "E:\\Live\\myshop.Web\\myshop.Web\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "Id": "F:\\full-stack\\Myshopping\\myshop.Web\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
     },
     {
-      "Id": "E:\\Live\\myshop.Web\\myshop.Web\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "Id": "F:\\full-stack\\Myshopping\\myshop.Web\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
     },
     {
-      "Id": "E:\\Live\\myshop.Web\\myshop.Web\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "Id": "F:\\full-stack\\Myshopping\\myshop.Web\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
     },
     {
-      "Id": "E:\\Live\\myshop.Web\\myshop.Web\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "Id": "F:\\full-stack\\Myshopping\\myshop.Web\\wwwroot\\lib\\jquery\\LICENSE.txt",
       "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
     },
     {
-      "Id": "E:\\Live\\myshop.Web\\myshop.Web\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "Id": "F:\\full-stack\\Myshopping\\myshop.Web\\wwwroot\\lib\\jquery\\dist\\jquery.js",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
     },
     {
-      "Id": "E:\\Live\\myshop.Web\\myshop.Web\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "Id": "F:\\full-stack\\Myshopping\\myshop.Web\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
     },
     {
-      "Id": "E:\\Live\\myshop.Web\\myshop.Web\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "Id": "F:\\full-stack\\Myshopping\\myshop.Web\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
     },
     {
-      "Id": "E:\\Live\\myshop.Web\\myshop.Web\\wwwroot\\plugins\\bootstrap\\js\\bootstrap.bundle.js",
+      "Id": "F:\\full-stack\\Myshopping\\myshop.Web\\wwwroot\\plugins\\bootstrap\\js\\bootstrap.bundle.js",
       "PackagePath": "staticwebassets\\plugins\\bootstrap\\js\\bootstrap.bundle.js"
     },
     {
-      "Id": "E:\\Live\\myshop.Web\\myshop.Web\\wwwroot\\plugins\\bootstrap\\js\\bootstrap.bundle.js.map",
+      "Id": "F:\\full-stack\\Myshopping\\myshop.Web\\wwwroot\\plugins\\bootstrap\\js\\bootstrap.bundle.js.map",
       "PackagePath": "staticwebassets\\plugins\\bootstrap\\js\\bootstrap.bundle.js.map"
     },
     {
-      "Id": "E:\\Live\\myshop.Web\\myshop.Web\\wwwroot\\plugins\\bootstrap\\js\\bootstrap.bundle.min.js",
+      "Id": "F:\\full-stack\\Myshopping\\myshop.Web\\wwwroot\\plugins\\bootstrap\\js\\bootstrap.bundle.min.js",
       "PackagePath": "staticwebassets\\plugins\\bootstrap\\js\\bootstrap.bundle.min.js"
     },
     {
-      "Id": "E:\\Live\\myshop.Web\\myshop.Web\\wwwroot\\plugins\\bootstrap\\js\\bootstrap.bundle.min.js.map",
+      "Id": "F:\\full-stack\\Myshopping\\myshop.Web\\wwwroot\\plugins\\bootstrap\\js\\bootstrap.bundle.min.js.map",
       "PackagePath": "staticwebassets\\plugins\\bootstrap\\js\\bootstrap.bundle.min.js.map"
     },
     {
-      "Id": "E:\\Live\\myshop.Web\\myshop.Web\\wwwroot\\plugins\\bootstrap\\js\\bootstrap.js",
+      "Id": "F:\\full-stack\\Myshopping\\myshop.Web\\wwwroot\\plugins\\bootstrap\\js\\bootstrap.js",
       "PackagePath": "staticwebassets\\plugins\\bootstrap\\js\\bootstrap.js"
     },
     {
-      "Id": "E:\\Live\\myshop.Web\\myshop.Web\\wwwroot\\plugins\\bootstrap\\js\\bootstrap.js.map",
+      "Id": "F:\\full-stack\\Myshopping\\myshop.Web\\wwwroot\\plugins\\bootstrap\\js\\bootstrap.js.map",
       "PackagePath": "staticwebassets\\plugins\\bootstrap\\js\\bootstrap.js.map"
     },
     {
-      "Id": "E:\\Live\\myshop.Web\\myshop.Web\\wwwroot\\plugins\\bootstrap\\js\\bootstrap.min.js",
+      "Id": "F:\\full-stack\\Myshopping\\myshop.Web\\wwwroot\\plugins\\bootstrap\\js\\bootstrap.min.js",
       "PackagePath": "staticwebassets\\plugins\\bootstrap\\js\\bootstrap.min.js"
     },
     {
-      "Id": "E:\\Live\\myshop.Web\\myshop.Web\\wwwroot\\plugins\\bootstrap\\js\\bootstrap.min.js.map",
+      "Id": "F:\\full-stack\\Myshopping\\myshop.Web\\wwwroot\\plugins\\bootstrap\\js\\bootstrap.min.js.map",
       "PackagePath": "staticwebassets\\plugins\\bootstrap\\js\\bootstrap.min.js.map"
     },
     {
-      "Id": "E:\\Live\\myshop.Web\\myshop.Web\\wwwroot\\plugins\\fontawesome-free\\css\\all.css",
+      "Id": "F:\\full-stack\\Myshopping\\myshop.Web\\wwwroot\\plugins\\fontawesome-free\\css\\all.css",
       "PackagePath": "staticwebassets\\plugins\\fontawesome-free\\css\\all.css"
     },
     {
-      "Id": "E:\\Live\\myshop.Web\\myshop.Web\\wwwroot\\plugins\\fontawesome-free\\css\\all.min.css",
+      "Id": "F:\\full-stack\\Myshopping\\myshop.Web\\wwwroot\\plugins\\fontawesome-free\\css\\all.min.css",
       "PackagePath": "staticwebassets\\plugins\\fontawesome-free\\css\\all.min.css"
     },
     {
-      "Id": "E:\\Live\\myshop.Web\\myshop.Web\\wwwroot\\plugins\\fontawesome-free\\css\\brands.css",
+      "Id": "F:\\full-stack\\Myshopping\\myshop.Web\\wwwroot\\plugins\\fontawesome-free\\css\\brands.css",
       "PackagePath": "staticwebassets\\plugins\\fontawesome-free\\css\\brands.css"
     },
     {
-      "Id": "E:\\Live\\myshop.Web\\myshop.Web\\wwwroot\\plugins\\fontawesome-free\\css\\brands.min.css",
+      "Id": "F:\\full-stack\\Myshopping\\myshop.Web\\wwwroot\\plugins\\fontawesome-free\\css\\brands.min.css",
       "PackagePath": "staticwebassets\\plugins\\fontawesome-free\\css\\brands.min.css"
     },
     {
-      "Id": "E:\\Live\\myshop.Web\\myshop.Web\\wwwroot\\plugins\\fontawesome-free\\css\\fontawesome.css",
+      "Id": "F:\\full-stack\\Myshopping\\myshop.Web\\wwwroot\\plugins\\fontawesome-free\\css\\fontawesome.css",
       "PackagePath": "staticwebassets\\plugins\\fontawesome-free\\css\\fontawesome.css"
     },
     {
-      "Id": "E:\\Live\\myshop.Web\\myshop.Web\\wwwroot\\plugins\\fontawesome-free\\css\\fontawesome.min.css",
+      "Id": "F:\\full-stack\\Myshopping\\myshop.Web\\wwwroot\\plugins\\fontawesome-free\\css\\fontawesome.min.css",
       "PackagePath": "staticwebassets\\plugins\\fontawesome-free\\css\\fontawesome.min.css"
     },
     {
-      "Id": "E:\\Live\\myshop.Web\\myshop.Web\\wwwroot\\plugins\\fontawesome-free\\css\\regular.css",
+      "Id": "F:\\full-stack\\Myshopping\\myshop.Web\\wwwroot\\plugins\\fontawesome-free\\css\\regular.css",
       "PackagePath": "staticwebassets\\plugins\\fontawesome-free\\css\\regular.css"
     },
     {
-      "Id": "E:\\Live\\myshop.Web\\myshop.Web\\wwwroot\\plugins\\fontawesome-free\\css\\regular.min.css",
+      "Id": "F:\\full-stack\\Myshopping\\myshop.Web\\wwwroot\\plugins\\fontawesome-free\\css\\regular.min.css",
       "PackagePath": "staticwebassets\\plugins\\fontawesome-free\\css\\regular.min.css"
     },
     {
-      "Id": "E:\\Live\\myshop.Web\\myshop.Web\\wwwroot\\plugins\\fontawesome-free\\css\\solid.css",
+      "Id": "F:\\full-stack\\Myshopping\\myshop.Web\\wwwroot\\plugins\\fontawesome-free\\css\\solid.css",
       "PackagePath": "staticwebassets\\plugins\\fontawesome-free\\css\\solid.css"
     },
     {
-      "Id": "E:\\Live\\myshop.Web\\myshop.Web\\wwwroot\\plugins\\fontawesome-free\\css\\solid.min.css",
+      "Id": "F:\\full-stack\\Myshopping\\myshop.Web\\wwwroot\\plugins\\fontawesome-free\\css\\solid.min.css",
       "PackagePath": "staticwebassets\\plugins\\fontawesome-free\\css\\solid.min.css"
     },
     {
-      "Id": "E:\\Live\\myshop.Web\\myshop.Web\\wwwroot\\plugins\\fontawesome-free\\css\\svg-with-js.css",
+      "Id": "F:\\full-stack\\Myshopping\\myshop.Web\\wwwroot\\plugins\\fontawesome-free\\css\\svg-with-js.css",
       "PackagePath": "staticwebassets\\plugins\\fontawesome-free\\css\\svg-with-js.css"
     },
     {
-      "Id": "E:\\Live\\myshop.Web\\myshop.Web\\wwwroot\\plugins\\fontawesome-free\\css\\svg-with-js.min.css",
+      "Id": "F:\\full-stack\\Myshopping\\myshop.Web\\wwwroot\\plugins\\fontawesome-free\\css\\svg-with-js.min.css",
       "PackagePath": "staticwebassets\\plugins\\fontawesome-free\\css\\svg-with-js.min.css"
     },
     {
-      "Id": "E:\\Live\\myshop.Web\\myshop.Web\\wwwroot\\plugins\\fontawesome-free\\css\\v4-shims.css",
+      "Id": "F:\\full-stack\\Myshopping\\myshop.Web\\wwwroot\\plugins\\fontawesome-free\\css\\v4-shims.css",
       "PackagePath": "staticwebassets\\plugins\\fontawesome-free\\css\\v4-shims.css"
     },
     {
-      "Id": "E:\\Live\\myshop.Web\\myshop.Web\\wwwroot\\plugins\\fontawesome-free\\css\\v4-shims.min.css",
+      "Id": "F:\\full-stack\\Myshopping\\myshop.Web\\wwwroot\\plugins\\fontawesome-free\\css\\v4-shims.min.css",
       "PackagePath": "staticwebassets\\plugins\\fontawesome-free\\css\\v4-shims.min.css"
     },
     {
-      "Id": "E:\\Live\\myshop.Web\\myshop.Web\\wwwroot\\plugins\\fontawesome-free\\webfonts\\fa-brands-400.eot",
+      "Id": "F:\\full-stack\\Myshopping\\myshop.Web\\wwwroot\\plugins\\fontawesome-free\\webfonts\\fa-brands-400.eot",
       "PackagePath": "staticwebassets\\plugins\\fontawesome-free\\webfonts\\fa-brands-400.eot"
     },
     {
-      "Id": "E:\\Live\\myshop.Web\\myshop.Web\\wwwroot\\plugins\\fontawesome-free\\webfonts\\fa-brands-400.svg",
+      "Id": "F:\\full-stack\\Myshopping\\myshop.Web\\wwwroot\\plugins\\fontawesome-free\\webfonts\\fa-brands-400.svg",
       "PackagePath": "staticwebassets\\plugins\\fontawesome-free\\webfonts\\fa-brands-400.svg"
     },
     {
-      "Id": "E:\\Live\\myshop.Web\\myshop.Web\\wwwroot\\plugins\\fontawesome-free\\webfonts\\fa-brands-400.ttf",
+      "Id": "F:\\full-stack\\Myshopping\\myshop.Web\\wwwroot\\plugins\\fontawesome-free\\webfonts\\fa-brands-400.ttf",
       "PackagePath": "staticwebassets\\plugins\\fontawesome-free\\webfonts\\fa-brands-400.ttf"
     },
     {
-      "Id": "E:\\Live\\myshop.Web\\myshop.Web\\wwwroot\\plugins\\fontawesome-free\\webfonts\\fa-brands-400.woff",
+      "Id": "F:\\full-stack\\Myshopping\\myshop.Web\\wwwroot\\plugins\\fontawesome-free\\webfonts\\fa-brands-400.woff",
       "PackagePath": "staticwebassets\\plugins\\fontawesome-free\\webfonts\\fa-brands-400.woff"
     },
     {
-      "Id": "E:\\Live\\myshop.Web\\myshop.Web\\wwwroot\\plugins\\fontawesome-free\\webfonts\\fa-brands-400.woff2",
+      "Id": "F:\\full-stack\\Myshopping\\myshop.Web\\wwwroot\\plugins\\fontawesome-free\\webfonts\\fa-brands-400.woff2",
       "PackagePath": "staticwebassets\\plugins\\fontawesome-free\\webfonts\\fa-brands-400.woff2"
     },
     {
-      "Id": "E:\\Live\\myshop.Web\\myshop.Web\\wwwroot\\plugins\\fontawesome-free\\webfonts\\fa-regular-400.eot",
+      "Id": "F:\\full-stack\\Myshopping\\myshop.Web\\wwwroot\\plugins\\fontawesome-free\\webfonts\\fa-regular-400.eot",
       "PackagePath": "staticwebassets\\plugins\\fontawesome-free\\webfonts\\fa-regular-400.eot"
     },
     {
-      "Id": "E:\\Live\\myshop.Web\\myshop.Web\\wwwroot\\plugins\\fontawesome-free\\webfonts\\fa-regular-400.svg",
+      "Id": "F:\\full-stack\\Myshopping\\myshop.Web\\wwwroot\\plugins\\fontawesome-free\\webfonts\\fa-regular-400.svg",
       "PackagePath": "staticwebassets\\plugins\\fontawesome-free\\webfonts\\fa-regular-400.svg"
     },
     {
-      "Id": "E:\\Live\\myshop.Web\\myshop.Web\\wwwroot\\plugins\\fontawesome-free\\webfonts\\fa-regular-400.ttf",
+      "Id": "F:\\full-stack\\Myshopping\\myshop.Web\\wwwroot\\plugins\\fontawesome-free\\webfonts\\fa-regular-400.ttf",
       "PackagePath": "staticwebassets\\plugins\\fontawesome-free\\webfonts\\fa-regular-400.ttf"
     },
     {
-      "Id": "E:\\Live\\myshop.Web\\myshop.Web\\wwwroot\\plugins\\fontawesome-free\\webfonts\\fa-regular-400.woff",
+      "Id": "F:\\full-stack\\Myshopping\\myshop.Web\\wwwroot\\plugins\\fontawesome-free\\webfonts\\fa-regular-400.woff",
       "PackagePath": "staticwebassets\\plugins\\fontawesome-free\\webfonts\\fa-regular-400.woff"
     },
     {
-      "Id": "E:\\Live\\myshop.Web\\myshop.Web\\wwwroot\\plugins\\fontawesome-free\\webfonts\\fa-regular-400.woff2",
+      "Id": "F:\\full-stack\\Myshopping\\myshop.Web\\wwwroot\\plugins\\fontawesome-free\\webfonts\\fa-regular-400.woff2",
       "PackagePath": "staticwebassets\\plugins\\fontawesome-free\\webfonts\\fa-regular-400.woff2"
     },
     {
-      "Id": "E:\\Live\\myshop.Web\\myshop.Web\\wwwroot\\plugins\\fontawesome-free\\webfonts\\fa-solid-900.eot",
+      "Id": "F:\\full-stack\\Myshopping\\myshop.Web\\wwwroot\\plugins\\fontawesome-free\\webfonts\\fa-solid-900.eot",
       "PackagePath": "staticwebassets\\plugins\\fontawesome-free\\webfonts\\fa-solid-900.eot"
     },
     {
-      "Id": "E:\\Live\\myshop.Web\\myshop.Web\\wwwroot\\plugins\\fontawesome-free\\webfonts\\fa-solid-900.svg",
+      "Id": "F:\\full-stack\\Myshopping\\myshop.Web\\wwwroot\\plugins\\fontawesome-free\\webfonts\\fa-solid-900.svg",
       "PackagePath": "staticwebassets\\plugins\\fontawesome-free\\webfonts\\fa-solid-900.svg"
     },
     {
-      "Id": "E:\\Live\\myshop.Web\\myshop.Web\\wwwroot\\plugins\\fontawesome-free\\webfonts\\fa-solid-900.ttf",
+      "Id": "F:\\full-stack\\Myshopping\\myshop.Web\\wwwroot\\plugins\\fontawesome-free\\webfonts\\fa-solid-900.ttf",
       "PackagePath": "staticwebassets\\plugins\\fontawesome-free\\webfonts\\fa-solid-900.ttf"
     },
     {
-      "Id": "E:\\Live\\myshop.Web\\myshop.Web\\wwwroot\\plugins\\fontawesome-free\\webfonts\\fa-solid-900.woff",
+      "Id": "F:\\full-stack\\Myshopping\\myshop.Web\\wwwroot\\plugins\\fontawesome-free\\webfonts\\fa-solid-900.woff",
       "PackagePath": "staticwebassets\\plugins\\fontawesome-free\\webfonts\\fa-solid-900.woff"
     },
     {
-      "Id": "E:\\Live\\myshop.Web\\myshop.Web\\wwwroot\\plugins\\fontawesome-free\\webfonts\\fa-solid-900.woff2",
+      "Id": "F:\\full-stack\\Myshopping\\myshop.Web\\wwwroot\\plugins\\fontawesome-free\\webfonts\\fa-solid-900.woff2",
       "PackagePath": "staticwebassets\\plugins\\fontawesome-free\\webfonts\\fa-solid-900.woff2"
     },
     {
-      "Id": "E:\\Live\\myshop.Web\\myshop.Web\\wwwroot\\plugins\\jquery-ui\\LICENSE.txt",
+      "Id": "F:\\full-stack\\Myshopping\\myshop.Web\\wwwroot\\plugins\\jquery-ui\\LICENSE.txt",
       "PackagePath": "staticwebassets\\plugins\\jquery-ui\\LICENSE.txt"
     },
     {
-      "Id": "E:\\Live\\myshop.Web\\myshop.Web\\wwwroot\\plugins\\jquery-ui\\images\\ui-icons_444444_256x240.png",
+      "Id": "F:\\full-stack\\Myshopping\\myshop.Web\\wwwroot\\plugins\\jquery-ui\\images\\ui-icons_444444_256x240.png",
       "PackagePath": "staticwebassets\\plugins\\jquery-ui\\images\\ui-icons_444444_256x240.png"
     },
     {
-      "Id": "E:\\Live\\myshop.Web\\myshop.Web\\wwwroot\\plugins\\jquery-ui\\images\\ui-icons_555555_256x240.png",
+      "Id": "F:\\full-stack\\Myshopping\\myshop.Web\\wwwroot\\plugins\\jquery-ui\\images\\ui-icons_555555_256x240.png",
       "PackagePath": "staticwebassets\\plugins\\jquery-ui\\images\\ui-icons_555555_256x240.png"
     },
     {
-      "Id": "E:\\Live\\myshop.Web\\myshop.Web\\wwwroot\\plugins\\jquery-ui\\images\\ui-icons_777620_256x240.png",
+      "Id": "F:\\full-stack\\Myshopping\\myshop.Web\\wwwroot\\plugins\\jquery-ui\\images\\ui-icons_777620_256x240.png",
       "PackagePath": "staticwebassets\\plugins\\jquery-ui\\images\\ui-icons_777620_256x240.png"
     },
     {
-      "Id": "E:\\Live\\myshop.Web\\myshop.Web\\wwwroot\\plugins\\jquery-ui\\images\\ui-icons_777777_256x240.png",
+      "Id": "F:\\full-stack\\Myshopping\\myshop.Web\\wwwroot\\plugins\\jquery-ui\\images\\ui-icons_777777_256x240.png",
       "PackagePath": "staticwebassets\\plugins\\jquery-ui\\images\\ui-icons_777777_256x240.png"
     },
     {
-      "Id": "E:\\Live\\myshop.Web\\myshop.Web\\wwwroot\\plugins\\jquery-ui\\images\\ui-icons_cc0000_256x240.png",
+      "Id": "F:\\full-stack\\Myshopping\\myshop.Web\\wwwroot\\plugins\\jquery-ui\\images\\ui-icons_cc0000_256x240.png",
       "PackagePath": "staticwebassets\\plugins\\jquery-ui\\images\\ui-icons_cc0000_256x240.png"
     },
     {
-      "Id": "E:\\Live\\myshop.Web\\myshop.Web\\wwwroot\\plugins\\jquery-ui\\images\\ui-icons_ffffff_256x240.png",
+      "Id": "F:\\full-stack\\Myshopping\\myshop.Web\\wwwroot\\plugins\\jquery-ui\\images\\ui-icons_ffffff_256x240.png",
       "PackagePath": "staticwebassets\\plugins\\jquery-ui\\images\\ui-icons_ffffff_256x240.png"
     },
     {
-      "Id": "E:\\Live\\myshop.Web\\myshop.Web\\wwwroot\\plugins\\jquery-ui\\jquery-ui.css",
+      "Id": "F:\\full-stack\\Myshopping\\myshop.Web\\wwwroot\\plugins\\jquery-ui\\jquery-ui.css",
       "PackagePath": "staticwebassets\\plugins\\jquery-ui\\jquery-ui.css"
     },
     {
-      "Id": "E:\\Live\\myshop.Web\\myshop.Web\\wwwroot\\plugins\\jquery-ui\\jquery-ui.js",
+      "Id": "F:\\full-stack\\Myshopping\\myshop.Web\\wwwroot\\plugins\\jquery-ui\\jquery-ui.js",
       "PackagePath": "staticwebassets\\plugins\\jquery-ui\\jquery-ui.js"
     },
     {
-      "Id": "E:\\Live\\myshop.Web\\myshop.Web\\wwwroot\\plugins\\jquery-ui\\jquery-ui.min.css",
+      "Id": "F:\\full-stack\\Myshopping\\myshop.Web\\wwwroot\\plugins\\jquery-ui\\jquery-ui.min.css",
       "PackagePath": "staticwebassets\\plugins\\jquery-ui\\jquery-ui.min.css"
     },
     {
-      "Id": "E:\\Live\\myshop.Web\\myshop.Web\\wwwroot\\plugins\\jquery-ui\\jquery-ui.min.js",
+      "Id": "F:\\full-stack\\Myshopping\\myshop.Web\\wwwroot\\plugins\\jquery-ui\\jquery-ui.min.js",
       "PackagePath": "staticwebassets\\plugins\\jquery-ui\\jquery-ui.min.js"
     },
     {
-      "Id": "E:\\Live\\myshop.Web\\myshop.Web\\wwwroot\\plugins\\jquery-ui\\jquery-ui.structure.css",
+      "Id": "F:\\full-stack\\Myshopping\\myshop.Web\\wwwroot\\plugins\\jquery-ui\\jquery-ui.structure.css",
       "PackagePath": "staticwebassets\\plugins\\jquery-ui\\jquery-ui.structure.css"
     },
     {
-      "Id": "E:\\Live\\myshop.Web\\myshop.Web\\wwwroot\\plugins\\jquery-ui\\jquery-ui.structure.min.css",
+      "Id": "F:\\full-stack\\Myshopping\\myshop.Web\\wwwroot\\plugins\\jquery-ui\\jquery-ui.structure.min.css",
       "PackagePath": "staticwebassets\\plugins\\jquery-ui\\jquery-ui.structure.min.css"
     },
     {
-      "Id": "E:\\Live\\myshop.Web\\myshop.Web\\wwwroot\\plugins\\jquery-ui\\jquery-ui.theme.css",
+      "Id": "F:\\full-stack\\Myshopping\\myshop.Web\\wwwroot\\plugins\\jquery-ui\\jquery-ui.theme.css",
       "PackagePath": "staticwebassets\\plugins\\jquery-ui\\jquery-ui.theme.css"
     },
     {
-      "Id": "E:\\Live\\myshop.Web\\myshop.Web\\wwwroot\\plugins\\jquery-ui\\jquery-ui.theme.min.css",
+      "Id": "F:\\full-stack\\Myshopping\\myshop.Web\\wwwroot\\plugins\\jquery-ui\\jquery-ui.theme.min.css",
       "PackagePath": "staticwebassets\\plugins\\jquery-ui\\jquery-ui.theme.min.css"
     },
     {
-      "Id": "E:\\Live\\myshop.Web\\myshop.Web\\wwwroot\\plugins\\jquery\\jquery.js",
+      "Id": "F:\\full-stack\\Myshopping\\myshop.Web\\wwwroot\\plugins\\jquery\\jquery.js",
       "PackagePath": "staticwebassets\\plugins\\jquery\\jquery.js"
     },
     {
-      "Id": "E:\\Live\\myshop.Web\\myshop.Web\\wwwroot\\plugins\\jquery\\jquery.min.js",
+      "Id": "F:\\full-stack\\Myshopping\\myshop.Web\\wwwroot\\plugins\\jquery\\jquery.min.js",
       "PackagePath": "staticwebassets\\plugins\\jquery\\jquery.min.js"
     },
     {
-      "Id": "E:\\Live\\myshop.Web\\myshop.Web\\wwwroot\\plugins\\jquery\\jquery.min.map",
+      "Id": "F:\\full-stack\\Myshopping\\myshop.Web\\wwwroot\\plugins\\jquery\\jquery.min.map",
       "PackagePath": "staticwebassets\\plugins\\jquery\\jquery.min.map"
     },
     {
-      "Id": "E:\\Live\\myshop.Web\\myshop.Web\\wwwroot\\plugins\\jquery\\jquery.slim.js",
+      "Id": "F:\\full-stack\\Myshopping\\myshop.Web\\wwwroot\\plugins\\jquery\\jquery.slim.js",
       "PackagePath": "staticwebassets\\plugins\\jquery\\jquery.slim.js"
     },
     {
-      "Id": "E:\\Live\\myshop.Web\\myshop.Web\\wwwroot\\plugins\\jquery\\jquery.slim.min.js",
+      "Id": "F:\\full-stack\\Myshopping\\myshop.Web\\wwwroot\\plugins\\jquery\\jquery.slim.min.js",
       "PackagePath": "staticwebassets\\plugins\\jquery\\jquery.slim.min.js"
     },
     {
-      "Id": "E:\\Live\\myshop.Web\\myshop.Web\\wwwroot\\plugins\\jquery\\jquery.slim.min.map",
+      "Id": "F:\\full-stack\\Myshopping\\myshop.Web\\wwwroot\\plugins\\jquery\\jquery.slim.min.map",
       "PackagePath": "staticwebassets\\plugins\\jquery\\jquery.slim.min.map"
     },
     {
-      "Id": "E:\\Live\\myshop.Web\\myshop.Web\\wwwroot\\plugins\\sweetalert2\\sweetalert2.all.js",
+      "Id": "F:\\full-stack\\Myshopping\\myshop.Web\\wwwroot\\plugins\\sweetalert2\\sweetalert2.all.js",
       "PackagePath": "staticwebassets\\plugins\\sweetalert2\\sweetalert2.all.js"
     },
     {
-      "Id": "E:\\Live\\myshop.Web\\myshop.Web\\wwwroot\\plugins\\sweetalert2\\sweetalert2.all.min.js",
+      "Id": "F:\\full-stack\\Myshopping\\myshop.Web\\wwwroot\\plugins\\sweetalert2\\sweetalert2.all.min.js",
       "PackagePath": "staticwebassets\\plugins\\sweetalert2\\sweetalert2.all.min.js"
     },
     {
-      "Id": "E:\\Live\\myshop.Web\\myshop.Web\\wwwroot\\plugins\\sweetalert2\\sweetalert2.css",
+      "Id": "F:\\full-stack\\Myshopping\\myshop.Web\\wwwroot\\plugins\\sweetalert2\\sweetalert2.css",
       "PackagePath": "staticwebassets\\plugins\\sweetalert2\\sweetalert2.css"
     },
     {
-      "Id": "E:\\Live\\myshop.Web\\myshop.Web\\wwwroot\\plugins\\sweetalert2\\sweetalert2.js",
+      "Id": "F:\\full-stack\\Myshopping\\myshop.Web\\wwwroot\\plugins\\sweetalert2\\sweetalert2.js",
       "PackagePath": "staticwebassets\\plugins\\sweetalert2\\sweetalert2.js"
     },
     {
-      "Id": "E:\\Live\\myshop.Web\\myshop.Web\\wwwroot\\plugins\\sweetalert2\\sweetalert2.min.css",
+      "Id": "F:\\full-stack\\Myshopping\\myshop.Web\\wwwroot\\plugins\\sweetalert2\\sweetalert2.min.css",
       "PackagePath": "staticwebassets\\plugins\\sweetalert2\\sweetalert2.min.css"
     },
     {
-      "Id": "E:\\Live\\myshop.Web\\myshop.Web\\wwwroot\\plugins\\sweetalert2\\sweetalert2.min.js",
+      "Id": "F:\\full-stack\\Myshopping\\myshop.Web\\wwwroot\\plugins\\sweetalert2\\sweetalert2.min.js",
       "PackagePath": "staticwebassets\\plugins\\sweetalert2\\sweetalert2.min.js"
     },
     {
-      "Id": "E:\\Live\\myshop.Web\\myshop.Web\\wwwroot\\shoppingcart\\index.html",
+      "Id": "F:\\full-stack\\Myshopping\\myshop.Web\\wwwroot\\shoppingcart\\index.html",
       "PackagePath": "staticwebassets\\shoppingcart\\index.html"
     },
     {
-      "Id": "E:\\Live\\myshop.Web\\myshop.Web\\wwwroot\\shoppingcart\\style.css",
+      "Id": "F:\\full-stack\\Myshopping\\myshop.Web\\wwwroot\\shoppingcart\\style.css",
       "PackagePath": "staticwebassets\\shoppingcart\\style.css"
     },
     {

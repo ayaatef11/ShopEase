@@ -1,35 +1,37 @@
 {
   "format": 1,
   "restore": {
-    "E:\\Live\\myshop.Web\\myshop.Web\\myshop.Web.csproj": {}
+    "F:\\full-stack\\myshopping\\myshop.Web\\myshop.Web.csproj": {}
   },
   "projects": {
-    "E:\\Live\\myshop.Web\\myshop.DataAccess\\myshop.DataAccess.csproj": {
+    "F:\\full-stack\\myshopping\\myshop.DataAccess\\myshop.DataAccess.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Live\\myshop.Web\\myshop.DataAccess\\myshop.DataAccess.csproj",
+        "projectUniqueName": "F:\\full-stack\\myshopping\\myshop.DataAccess\\myshop.DataAccess.csproj",
         "projectName": "myshop.DataAccess",
-        "projectPath": "E:\\Live\\myshop.Web\\myshop.DataAccess\\myshop.DataAccess.csproj",
-        "packagesPath": "C:\\Users\\pc\\.nuget\\packages\\",
-        "outputPath": "E:\\Live\\myshop.Web\\myshop.DataAccess\\obj\\",
+        "projectPath": "F:\\full-stack\\myshopping\\myshop.DataAccess\\myshop.DataAccess.csproj",
+        "packagesPath": "C:\\Users\\Aya Atef\\.nuget\\packages\\",
+        "outputPath": "F:\\full-stack\\myshopping\\myshop.DataAccess\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\pc\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Aya Atef\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
-          "net7.0"
+          "net8.0"
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "https://api.nuget.org/v3/index.json": {}
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://packagesource": {}
         },
         "frameworks": {
-          "net7.0": {
-            "targetAlias": "net7.0",
+          "net8.0": {
+            "targetAlias": "net8.0",
             "projectReferences": {
-              "E:\\Live\\myshop.Web\\myshop.Entities\\myshop.Entities.csproj": {
-                "projectPath": "E:\\Live\\myshop.Web\\myshop.Entities\\myshop.Entities.csproj"
+              "F:\\full-stack\\myshopping\\myshop.Entities\\myshop.Entities.csproj": {
+                "projectPath": "F:\\full-stack\\myshopping\\myshop.Entities\\myshop.Entities.csproj"
               }
             }
           }
@@ -38,29 +40,40 @@
           "warnAsError": [
             "NU1605"
           ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
         }
       },
       "frameworks": {
-        "net7.0": {
-          "targetAlias": "net7.0",
+        "net8.0": {
+          "targetAlias": "net8.0",
           "dependencies": {
             "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
               "target": "Package",
-              "version": "[7.0.5, )"
+              "version": "[8.0.8, )"
             },
             "Microsoft.EntityFrameworkCore": {
               "target": "Package",
-              "version": "[7.0.5, )"
+              "version": "[8.0.8, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[8.0.8, )"
             },
             "Microsoft.EntityFrameworkCore.SqlServer": {
               "target": "Package",
-              "version": "[7.0.5, )"
+              "version": "[8.0.8, )"
             },
             "Microsoft.EntityFrameworkCore.Tools": {
               "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
               "suppressParent": "All",
               "target": "Package",
-              "version": "[7.0.5, )"
+              "version": "[8.0.8, )"
             }
           },
           "imports": [
@@ -79,21 +92,21 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.304/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "E:\\Live\\myshop.Web\\myshop.Entities\\myshop.Entities.csproj": {
+    "F:\\full-stack\\myshopping\\myshop.Entities\\myshop.Entities.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Live\\myshop.Web\\myshop.Entities\\myshop.Entities.csproj",
+        "projectUniqueName": "F:\\full-stack\\myshopping\\myshop.Entities\\myshop.Entities.csproj",
         "projectName": "myshop.Entities",
-        "projectPath": "E:\\Live\\myshop.Web\\myshop.Entities\\myshop.Entities.csproj",
-        "packagesPath": "C:\\Users\\pc\\.nuget\\packages\\",
-        "outputPath": "E:\\Live\\myshop.Web\\myshop.Entities\\obj\\",
+        "projectPath": "F:\\full-stack\\myshopping\\myshop.Entities\\myshop.Entities.csproj",
+        "packagesPath": "C:\\Users\\Aya Atef\\.nuget\\packages\\",
+        "outputPath": "F:\\full-stack\\myshopping\\myshop.Entities\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\pc\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Aya Atef\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -101,7 +114,9 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "https://api.nuget.org/v3/index.json": {}
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://packagesource": {}
         },
         "frameworks": {
           "net7.0": {
@@ -113,6 +128,11 @@
           "warnAsError": [
             "NU1605"
           ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
         }
       },
       "frameworks": {
@@ -144,21 +164,21 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.304\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "E:\\Live\\myshop.Web\\myshop.Utilities\\myshop.Utilities.csproj": {
+    "F:\\full-stack\\myshopping\\myshop.Utilities\\myshop.Utilities.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Live\\myshop.Web\\myshop.Utilities\\myshop.Utilities.csproj",
+        "projectUniqueName": "F:\\full-stack\\myshopping\\myshop.Utilities\\myshop.Utilities.csproj",
         "projectName": "myshop.Utilities",
-        "projectPath": "E:\\Live\\myshop.Web\\myshop.Utilities\\myshop.Utilities.csproj",
-        "packagesPath": "C:\\Users\\pc\\.nuget\\packages\\",
-        "outputPath": "E:\\Live\\myshop.Web\\myshop.Utilities\\obj\\",
+        "projectPath": "F:\\full-stack\\myshopping\\myshop.Utilities\\myshop.Utilities.csproj",
+        "packagesPath": "C:\\Users\\Aya Atef\\.nuget\\packages\\",
+        "outputPath": "F:\\full-stack\\Myshopping\\myshop.Utilities\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\pc\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Aya Atef\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -166,7 +186,9 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "https://api.nuget.org/v3/index.json": {}
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://packagesource": {}
         },
         "frameworks": {
           "net7.0": {
@@ -178,6 +200,11 @@
           "warnAsError": [
             "NU1605"
           ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
         }
       },
       "frameworks": {
@@ -205,39 +232,41 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.304\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "E:\\Live\\myshop.Web\\myshop.Web\\myshop.Web.csproj": {
+    "F:\\full-stack\\myshopping\\myshop.Web\\myshop.Web.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Live\\myshop.Web\\myshop.Web\\myshop.Web.csproj",
+        "projectUniqueName": "F:\\full-stack\\myshopping\\myshop.Web\\myshop.Web.csproj",
         "projectName": "myshop.Web",
-        "projectPath": "E:\\Live\\myshop.Web\\myshop.Web\\myshop.Web.csproj",
-        "packagesPath": "C:\\Users\\pc\\.nuget\\packages\\",
-        "outputPath": "E:\\Live\\myshop.Web\\myshop.Web\\obj\\",
+        "projectPath": "F:\\full-stack\\myshopping\\myshop.Web\\myshop.Web.csproj",
+        "packagesPath": "C:\\Users\\Aya Atef\\.nuget\\packages\\",
+        "outputPath": "F:\\full-stack\\myshopping\\myshop.Web\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\pc\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Aya Atef\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
-          "net7.0"
+          "net8.0"
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "https://api.nuget.org/v3/index.json": {}
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://packagesource": {}
         },
         "frameworks": {
-          "net7.0": {
-            "targetAlias": "net7.0",
+          "net8.0": {
+            "targetAlias": "net8.0",
             "projectReferences": {
-              "E:\\Live\\myshop.Web\\myshop.DataAccess\\myshop.DataAccess.csproj": {
-                "projectPath": "E:\\Live\\myshop.Web\\myshop.DataAccess\\myshop.DataAccess.csproj"
+              "F:\\full-stack\\myshopping\\myshop.DataAccess\\myshop.DataAccess.csproj": {
+                "projectPath": "F:\\full-stack\\myshopping\\myshop.DataAccess\\myshop.DataAccess.csproj"
               },
-              "E:\\Live\\myshop.Web\\myshop.Utilities\\myshop.Utilities.csproj": {
-                "projectPath": "E:\\Live\\myshop.Web\\myshop.Utilities\\myshop.Utilities.csproj"
+              "F:\\full-stack\\myshopping\\myshop.Utilities\\myshop.Utilities.csproj": {
+                "projectPath": "F:\\full-stack\\myshopping\\myshop.Utilities\\myshop.Utilities.csproj"
               }
             }
           }
@@ -246,16 +275,17 @@
           "warnAsError": [
             "NU1605"
           ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
         }
       },
       "frameworks": {
-        "net7.0": {
-          "targetAlias": "net7.0",
+        "net8.0": {
+          "targetAlias": "net8.0",
           "dependencies": {
-            "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
-              "target": "Package",
-              "version": "[7.0.9, )"
-            },
             "Microsoft.AspNetCore.Identity.UI": {
               "target": "Package",
               "version": "[7.0.9, )"
@@ -264,31 +294,23 @@
               "target": "Package",
               "version": "[7.0.9, )"
             },
-            "Microsoft.EntityFrameworkCore": {
-              "target": "Package",
-              "version": "[7.0.9, )"
-            },
-            "Microsoft.EntityFrameworkCore.SqlServer": {
-              "target": "Package",
-              "version": "[7.0.9, )"
-            },
-            "Microsoft.EntityFrameworkCore.Tools": {
+            "Microsoft.EntityFrameworkCore.Design": {
               "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
               "suppressParent": "All",
               "target": "Package",
-              "version": "[7.0.9, )"
-            },
-            "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
-              "target": "Package",
-              "version": "[7.0.8, )"
+              "version": "[8.0.8, )"
             },
             "Stripe.net": {
               "target": "Package",
               "version": "[43.4.0, )"
             },
-            "X.PagedList.Mvc.Core": {
+            "X.PagedList": {
               "target": "Package",
-              "version": "[8.4.7, )"
+              "version": "[10.0.3, )"
+            },
+            "X.Web.PagedList": {
+              "target": "Package",
+              "version": "[10.1.2, )"
             }
           },
           "imports": [
@@ -310,7 +332,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.304/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
