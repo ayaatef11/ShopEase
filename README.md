@@ -10,6 +10,9 @@ ShopEase is a simple and user-friendly shopping cart system built for e-commerce
 - Filters
 - Unit of work
 - Seed Data
+- Log process
+- Authorization
+- Paging
 - upload files
 - download files
 
